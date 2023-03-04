@@ -1,0 +1,1475 @@
+[2023-03-03 07:39:24 : INFO] - Re_Smush_It_Task with attachment ID : 162, autocreated on : March 03, 2023 07:39:24 
+[2023-03-03 07:39:26 : INFO] - Re_Smush_It_Task with attachment ID : 163, autocreated on : March 03, 2023 07:39:26 
+[2023-03-03 07:39:27 : INFO] - Re_Smush_It_Task with attachment ID : 164, autocreated on : March 03, 2023 07:39:27 
+[2023-03-03 07:39:29 : INFO] - Re_Smush_It_Task with attachment ID : 165, autocreated on : March 03, 2023 07:39:29 
+[2023-03-03 07:44:49 : INFO] - 
+ 
+[2023-03-03 07:44:49 : INFO] - Header for logs at time:  Fri, 03 Mar 2023 07:44:49 +0000 on https://dev.vietnamgarage.vn 
+[2023-03-03 07:44:49 : INFO] - WP: 6.1.1 
+[2023-03-03 07:44:49 : INFO] - PHP: 7.4.32 (litespeed, Linux vmi1022598.contaboserver.net 5.4.0-105-generic #119-Ubuntu SMP Mon Mar 7 18:49:24 UTC 2022 x86_64) 
+[2023-03-03 07:44:49 : INFO] - MySQL: 5.5.5 
+[2023-03-03 07:44:49 : INFO] - WPLANG: vi 
+[2023-03-03 07:44:49 : INFO] - Server: LiteSpeed 
+[2023-03-03 07:44:49 : INFO] - Outbound connections: N 
+[2023-03-03 07:44:49 : INFO] - safe_mode: 0 
+[2023-03-03 07:44:49 : INFO] - max_execution_time: 30 
+[2023-03-03 07:44:49 : INFO] - memory_limit: 8000M (used: 18.7M | 4M) 
+[2023-03-03 07:44:49 : INFO] - multisite: N 
+[2023-03-03 07:44:49 : INFO] - openssl: OpenSSL 1.1.1f  31 Mar 2020 
+[2023-03-03 07:44:49 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2023-03-03 07:44:49 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-03-03 07:44:49 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-03-03 07:44:49 : INFO] - Processing task with ID : 95, and type 'smush' 
+[2023-03-03 07:44:49 : INFO] - Re_Smush_It_Task with attachment ID : 162, autocreated on : March 03, 2023 07:39:24 
+[2023-03-03 07:44:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:44:49 : INFO] - 75 
+[2023-03-03 07:44:51 : INFO] - Backing up the original image - 2023/03/@Fd2X@HoSi292-updraft-pre-smush-original.jpg 
+[2023-03-03 07:44:51 : INFO] - Re_Smush_It_Task with attachment ID : 162, autocreated on : March 03, 2023 07:39:24 
+[2023-03-03 07:44:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:44:51 : INFO] - 75 
+[2023-03-03 07:44:51 : INFO] - Re_Smush_It_Task with attachment ID : 162, autocreated on : March 03, 2023 07:39:24 
+[2023-03-03 07:44:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:44:51 : INFO] - 75 
+[2023-03-03 07:44:52 : INFO] - Re_Smush_It_Task with attachment ID : 162, autocreated on : March 03, 2023 07:39:24 
+[2023-03-03 07:44:52 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:44:52 : INFO] - 75 
+[2023-03-03 07:44:54 : INFO] - Re_Smush_It_Task with attachment ID : 162, autocreated on : March 03, 2023 07:39:24 
+[2023-03-03 07:44:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:44:54 : INFO] - 75 
+[2023-03-03 07:44:54 : INFO] - Re_Smush_It_Task with attachment ID : 162, autocreated on : March 03, 2023 07:39:24 
+[2023-03-03 07:44:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:44:54 : INFO] - 75 
+[2023-03-03 07:44:55 : INFO] - Re_Smush_It_Task with attachment ID : 162, autocreated on : March 03, 2023 07:39:24 
+[2023-03-03 07:44:55 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:44:55 : INFO] - 75 
+[2023-03-03 07:44:56 : INFO] - Re_Smush_It_Task with attachment ID : 162, autocreated on : March 03, 2023 07:39:24 
+[2023-03-03 07:44:56 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:44:56 : INFO] - 75 
+[2023-03-03 07:44:56 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/@Fd2X@HoSi292.jpg.The file was compressed from 96.93 KB to 83.53 KB saving 13.83 percent using WP-Optimize 
+[2023-03-03 07:44:56 : INFO] - Completed processing task with ID : 95, and type 'smush' 
+[2023-03-03 07:44:56 : INFO] - Processing task with ID : 96, and type 'smush' 
+[2023-03-03 07:44:56 : INFO] - Re_Smush_It_Task with attachment ID : 163, autocreated on : March 03, 2023 07:39:26 
+[2023-03-03 07:44:56 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:44:56 : INFO] - 75 
+[2023-03-03 07:44:58 : INFO] - Backing up the original image - 2023/03/@Fd2X@HoSi294-updraft-pre-smush-original.jpg 
+[2023-03-03 07:44:58 : INFO] - Re_Smush_It_Task with attachment ID : 163, autocreated on : March 03, 2023 07:39:26 
+[2023-03-03 07:44:58 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:44:58 : INFO] - 75 
+[2023-03-03 07:44:59 : INFO] - Re_Smush_It_Task with attachment ID : 163, autocreated on : March 03, 2023 07:39:26 
+[2023-03-03 07:44:59 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:44:59 : INFO] - 75 
+[2023-03-03 07:44:59 : INFO] - Re_Smush_It_Task with attachment ID : 163, autocreated on : March 03, 2023 07:39:26 
+[2023-03-03 07:44:59 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:44:59 : INFO] - 75 
+[2023-03-03 07:45:00 : INFO] - Re_Smush_It_Task with attachment ID : 163, autocreated on : March 03, 2023 07:39:26 
+[2023-03-03 07:45:00 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:00 : INFO] - 75 
+[2023-03-03 07:45:01 : INFO] - Re_Smush_It_Task with attachment ID : 163, autocreated on : March 03, 2023 07:39:26 
+[2023-03-03 07:45:01 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:01 : INFO] - 75 
+[2023-03-03 07:45:07 : INFO] - Task with ID 96 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2023-03-03 07:45:07 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/63df5ecaf73f4acbe50845075abe110e\/_src_%40Fd2X%40HoSi294-600x670.jpg","dest":"http:\/\/par3.static.resmush.it\/63df5ecaf73f4acbe50845075abe110e\/%40Fd2X%40HoSi294-600x670.jpg","src_size":64227,"dest_size":55638,"percent":13,"output":"json","expires":"Fri, 03 Mar 2023 08:50:02 +0100","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2023-03-03 07:45:07 : INFO] - Re_Smush_It_Task with attachment ID : 163, autocreated on : March 03, 2023 07:39:26 
+[2023-03-03 07:45:07 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:07 : INFO] - 75 
+[2023-03-03 07:45:08 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/@Fd2X@HoSi294.jpg.The file was compressed from 83.33 KB to 70.27 KB saving 15.68 percent using WP-Optimize 
+[2023-03-03 07:45:08 : INFO] - Completed processing task with ID : 96, and type 'smush' 
+[2023-03-03 07:45:08 : INFO] - Processing task with ID : 97, and type 'smush' 
+[2023-03-03 07:45:08 : INFO] - Re_Smush_It_Task with attachment ID : 164, autocreated on : March 03, 2023 07:39:27 
+[2023-03-03 07:45:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:08 : INFO] - 75 
+[2023-03-03 07:45:09 : INFO] - Backing up the original image - 2023/03/@Fd2X@HoSi295-updraft-pre-smush-original.jpg 
+[2023-03-03 07:45:09 : INFO] - Re_Smush_It_Task with attachment ID : 164, autocreated on : March 03, 2023 07:39:27 
+[2023-03-03 07:45:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:09 : INFO] - 75 
+[2023-03-03 07:45:10 : INFO] - Re_Smush_It_Task with attachment ID : 164, autocreated on : March 03, 2023 07:39:27 
+[2023-03-03 07:45:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:10 : INFO] - 75 
+[2023-03-03 07:45:11 : INFO] - Re_Smush_It_Task with attachment ID : 164, autocreated on : March 03, 2023 07:39:27 
+[2023-03-03 07:45:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:11 : INFO] - 75 
+[2023-03-03 07:45:11 : INFO] - Re_Smush_It_Task with attachment ID : 164, autocreated on : March 03, 2023 07:39:27 
+[2023-03-03 07:45:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:11 : INFO] - 75 
+[2023-03-03 07:45:12 : INFO] - Re_Smush_It_Task with attachment ID : 164, autocreated on : March 03, 2023 07:39:27 
+[2023-03-03 07:45:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:12 : INFO] - 75 
+[2023-03-03 07:45:13 : INFO] - Re_Smush_It_Task with attachment ID : 164, autocreated on : March 03, 2023 07:39:27 
+[2023-03-03 07:45:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:13 : INFO] - 75 
+[2023-03-03 07:45:14 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/@Fd2X@HoSi295.jpg.The file was compressed from 55.94 KB to 48.49 KB saving 13.32 percent using WP-Optimize 
+[2023-03-03 07:45:14 : INFO] - Completed processing task with ID : 97, and type 'smush' 
+[2023-03-03 07:45:14 : INFO] - Processing task with ID : 98, and type 'smush' 
+[2023-03-03 07:45:14 : INFO] - Re_Smush_It_Task with attachment ID : 165, autocreated on : March 03, 2023 07:39:29 
+[2023-03-03 07:45:14 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:14 : INFO] - 75 
+[2023-03-03 07:45:16 : INFO] - Backing up the original image - 2023/03/@Fd2X@HoSi293-updraft-pre-smush-original.jpg 
+[2023-03-03 07:45:16 : INFO] - Re_Smush_It_Task with attachment ID : 165, autocreated on : March 03, 2023 07:39:29 
+[2023-03-03 07:45:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:16 : INFO] - 75 
+[2023-03-03 07:45:16 : INFO] - Re_Smush_It_Task with attachment ID : 165, autocreated on : March 03, 2023 07:39:29 
+[2023-03-03 07:45:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:16 : INFO] - 75 
+[2023-03-03 07:45:17 : INFO] - Re_Smush_It_Task with attachment ID : 165, autocreated on : March 03, 2023 07:39:29 
+[2023-03-03 07:45:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:17 : INFO] - 75 
+[2023-03-03 07:45:18 : INFO] - Re_Smush_It_Task with attachment ID : 165, autocreated on : March 03, 2023 07:39:29 
+[2023-03-03 07:45:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:18 : INFO] - 75 
+[2023-03-03 07:45:19 : INFO] - Re_Smush_It_Task with attachment ID : 165, autocreated on : March 03, 2023 07:39:29 
+[2023-03-03 07:45:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:19 : INFO] - 75 
+[2023-03-03 07:45:20 : INFO] - Re_Smush_It_Task with attachment ID : 165, autocreated on : March 03, 2023 07:39:29 
+[2023-03-03 07:45:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:20 : INFO] - 75 
+[2023-03-03 07:45:21 : INFO] - Re_Smush_It_Task with attachment ID : 165, autocreated on : March 03, 2023 07:39:29 
+[2023-03-03 07:45:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:21 : INFO] - 75 
+[2023-03-03 07:45:22 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/@Fd2X@HoSi293.jpg.The file was compressed from 117.07 KB to 102.60 KB saving 12.36 percent using WP-Optimize 
+[2023-03-03 07:45:22 : INFO] - Completed processing task with ID : 98, and type 'smush' 
+[2023-03-03 07:45:22 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-03-03 07:45:22 : INFO] - Successfully processed the queue (smush). 4 tasks were processed out of 4. 
+[2023-03-03 07:45:22 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-03-03 07:45:22 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2023-03-03 07:54:52 : INFO] - 
+ 
+[2023-03-03 07:54:52 : INFO] - Header for logs at time:  Fri, 03 Mar 2023 07:54:52 +0000 on https://dev.vietnamgarage.vn 
+[2023-03-03 07:54:52 : INFO] - WP: 6.1.1 
+[2023-03-03 07:54:52 : INFO] - PHP: 7.4.32 (litespeed, Linux vmi1022598.contaboserver.net 5.4.0-105-generic #119-Ubuntu SMP Mon Mar 7 18:49:24 UTC 2022 x86_64) 
+[2023-03-03 07:54:52 : INFO] - MySQL: 5.5.5 
+[2023-03-03 07:54:52 : INFO] - WPLANG: vi 
+[2023-03-03 07:54:52 : INFO] - Server: LiteSpeed 
+[2023-03-03 07:54:52 : INFO] - Outbound connections: N 
+[2023-03-03 07:54:52 : INFO] - safe_mode: 0 
+[2023-03-03 07:54:52 : INFO] - max_execution_time: 30 
+[2023-03-03 07:54:52 : INFO] - memory_limit: 8000M (used: 18.7M | 2M) 
+[2023-03-03 07:54:52 : INFO] - multisite: N 
+[2023-03-03 07:54:52 : INFO] - openssl: OpenSSL 1.1.1f  31 Mar 2020 
+[2023-03-03 07:54:52 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2023-03-03 13:08:17 : INFO] - Re_Smush_It_Task with attachment ID : 184, autocreated on : March 03, 2023 01:08:17 
+[2023-03-03 13:08:21 : INFO] - Re_Smush_It_Task with attachment ID : 185, autocreated on : March 03, 2023 01:08:21 
+[2023-03-03 13:08:25 : INFO] - Re_Smush_It_Task with attachment ID : 186, autocreated on : March 03, 2023 01:08:25 
+[2023-03-03 13:08:29 : INFO] - Re_Smush_It_Task with attachment ID : 187, autocreated on : March 03, 2023 01:08:29 
+[2023-03-03 13:08:33 : INFO] - Re_Smush_It_Task with attachment ID : 188, autocreated on : March 03, 2023 01:08:33 
+[2023-03-03 13:08:37 : INFO] - Re_Smush_It_Task with attachment ID : 189, autocreated on : March 03, 2023 01:08:37 
+[2023-03-03 13:08:39 : INFO] - Re_Smush_It_Task with attachment ID : 190, autocreated on : March 03, 2023 01:08:39 
+[2023-03-03 13:08:41 : INFO] - Re_Smush_It_Task with attachment ID : 191, autocreated on : March 03, 2023 01:08:41 
+[2023-03-03 13:08:45 : INFO] - Re_Smush_It_Task with attachment ID : 192, autocreated on : March 03, 2023 01:08:44 
+[2023-03-03 13:08:47 : INFO] - Re_Smush_It_Task with attachment ID : 193, autocreated on : March 03, 2023 01:08:47 
+[2023-03-03 13:08:51 : INFO] - Re_Smush_It_Task with attachment ID : 194, autocreated on : March 03, 2023 01:08:51 
+[2023-03-03 13:08:53 : INFO] - Re_Smush_It_Task with attachment ID : 195, autocreated on : March 03, 2023 01:08:53 
+[2023-03-03 13:08:55 : INFO] - Re_Smush_It_Task with attachment ID : 196, autocreated on : March 03, 2023 01:08:55 
+[2023-03-03 13:08:56 : INFO] - Re_Smush_It_Task with attachment ID : 197, autocreated on : March 03, 2023 01:08:56 
+[2023-03-03 13:08:58 : INFO] - Re_Smush_It_Task with attachment ID : 198, autocreated on : March 03, 2023 01:08:58 
+[2023-03-03 13:09:00 : INFO] - Re_Smush_It_Task with attachment ID : 199, autocreated on : March 03, 2023 01:09:00 
+[2023-03-03 13:09:01 : INFO] - Re_Smush_It_Task with attachment ID : 200, autocreated on : March 03, 2023 01:09:01 
+[2023-03-03 13:09:05 : INFO] - Re_Smush_It_Task with attachment ID : 201, autocreated on : March 03, 2023 01:09:05 
+[2023-03-03 13:09:07 : INFO] - Re_Smush_It_Task with attachment ID : 202, autocreated on : March 03, 2023 01:09:07 
+[2023-03-03 13:09:09 : INFO] - Re_Smush_It_Task with attachment ID : 203, autocreated on : March 03, 2023 01:09:09 
+[2023-03-03 13:09:13 : INFO] - Re_Smush_It_Task with attachment ID : 204, autocreated on : March 03, 2023 01:09:13 
+[2023-03-03 13:09:17 : INFO] - Re_Smush_It_Task with attachment ID : 205, autocreated on : March 03, 2023 01:09:17 
+[2023-03-03 13:09:21 : INFO] - Re_Smush_It_Task with attachment ID : 206, autocreated on : March 03, 2023 01:09:21 
+[2023-03-03 13:09:24 : INFO] - Re_Smush_It_Task with attachment ID : 207, autocreated on : March 03, 2023 01:09:24 
+[2023-03-03 13:09:27 : INFO] - Re_Smush_It_Task with attachment ID : 208, autocreated on : March 03, 2023 01:09:27 
+[2023-03-03 13:09:28 : INFO] - Re_Smush_It_Task with attachment ID : 209, autocreated on : March 03, 2023 01:09:28 
+[2023-03-03 13:09:32 : INFO] - Re_Smush_It_Task with attachment ID : 210, autocreated on : March 03, 2023 01:09:32 
+[2023-03-03 13:13:31 : INFO] - 
+ 
+[2023-03-03 13:13:31 : INFO] - Header for logs at time:  Fri, 03 Mar 2023 13:13:31 +0000 on https://dev.vietnamgarage.vn 
+[2023-03-03 13:13:31 : INFO] - WP: 6.1.1 
+[2023-03-03 13:13:31 : INFO] - PHP: 7.4.32 (litespeed, Linux vmi1022598.contaboserver.net 5.4.0-105-generic #119-Ubuntu SMP Mon Mar 7 18:49:24 UTC 2022 x86_64) 
+[2023-03-03 13:13:31 : INFO] - MySQL: 5.5.5 
+[2023-03-03 13:13:31 : INFO] - WPLANG: vi 
+[2023-03-03 13:13:31 : INFO] - Server: LiteSpeed 
+[2023-03-03 13:13:31 : INFO] - Outbound connections: N 
+[2023-03-03 13:13:31 : INFO] - safe_mode: 0 
+[2023-03-03 13:13:31 : INFO] - max_execution_time: 30 
+[2023-03-03 13:13:31 : INFO] - memory_limit: 8000M (used: 20.2M | 2M) 
+[2023-03-03 13:13:31 : INFO] - multisite: N 
+[2023-03-03 13:13:31 : INFO] - openssl: OpenSSL 1.1.1f  31 Mar 2020 
+[2023-03-03 13:13:31 : INFO] - A total of 27 tasks of type smush found and will be processed in this iteration 
+[2023-03-03 13:13:31 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-03-03 13:13:31 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-03-03 13:13:31 : INFO] - Processing task with ID : 99, and type 'smush' 
+[2023-03-03 13:13:31 : INFO] - Re_Smush_It_Task with attachment ID : 184, autocreated on : March 03, 2023 01:08:17 
+[2023-03-03 13:13:31 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:13:31 : INFO] - 75 
+[2023-03-03 13:13:33 : INFO] - Backing up the original image - 2023/03/Camera-360-Owin-plus-xem-video-online-1-scaled-updraft-pre-smush-original.jpg 
+[2023-03-03 13:13:33 : INFO] - Re_Smush_It_Task with attachment ID : 184, autocreated on : March 03, 2023 01:08:17 
+[2023-03-03 13:13:33 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:13:33 : INFO] - 75 
+[2023-03-03 13:13:34 : INFO] - Re_Smush_It_Task with attachment ID : 184, autocreated on : March 03, 2023 01:08:17 
+[2023-03-03 13:13:34 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:13:34 : INFO] - 75 
+[2023-03-03 13:13:36 : INFO] - Re_Smush_It_Task with attachment ID : 184, autocreated on : March 03, 2023 01:08:17 
+[2023-03-03 13:13:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:13:36 : INFO] - 75 
+[2023-03-03 13:13:36 : INFO] - Re_Smush_It_Task with attachment ID : 184, autocreated on : March 03, 2023 01:08:17 
+[2023-03-03 13:13:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:13:36 : INFO] - 75 
+[2023-03-03 13:13:38 : INFO] - Re_Smush_It_Task with attachment ID : 184, autocreated on : March 03, 2023 01:08:17 
+[2023-03-03 13:13:38 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:13:38 : INFO] - 75 
+[2023-03-03 13:13:39 : INFO] - Re_Smush_It_Task with attachment ID : 184, autocreated on : March 03, 2023 01:08:17 
+[2023-03-03 13:13:39 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:13:39 : INFO] - 75 
+[2023-03-03 13:13:41 : INFO] - Re_Smush_It_Task with attachment ID : 184, autocreated on : March 03, 2023 01:08:17 
+[2023-03-03 13:13:41 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:13:41 : INFO] - 75 
+[2023-03-03 13:13:42 : INFO] - Re_Smush_It_Task with attachment ID : 184, autocreated on : March 03, 2023 01:08:17 
+[2023-03-03 13:13:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:13:42 : INFO] - 75 
+[2023-03-03 13:13:43 : INFO] - Re_Smush_It_Task with attachment ID : 184, autocreated on : March 03, 2023 01:08:17 
+[2023-03-03 13:13:43 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:13:43 : INFO] - 75 
+[2023-03-03 13:13:44 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/Camera-360-Owin-plus-xem-video-online-1-scaled.jpg.The file was compressed from 383.39 KB to 332.66 KB saving 13.23 percent using WP-Optimize 
+[2023-03-03 13:13:44 : INFO] - Completed processing task with ID : 99, and type 'smush' 
+[2023-03-03 13:13:44 : INFO] - Processing task with ID : 100, and type 'smush' 
+[2023-03-03 13:13:44 : INFO] - Re_Smush_It_Task with attachment ID : 185, autocreated on : March 03, 2023 01:08:21 
+[2023-03-03 13:13:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:13:44 : INFO] - 75 
+[2023-03-03 13:13:46 : INFO] - Backing up the original image - 2023/03/Camera-360-Owin-plus-xem-video-online-2-scaled-updraft-pre-smush-original.jpg 
+[2023-03-03 13:13:46 : INFO] - Re_Smush_It_Task with attachment ID : 185, autocreated on : March 03, 2023 01:08:21 
+[2023-03-03 13:13:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:13:46 : INFO] - 75 
+[2023-03-03 13:13:47 : INFO] - Re_Smush_It_Task with attachment ID : 185, autocreated on : March 03, 2023 01:08:21 
+[2023-03-03 13:13:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:13:47 : INFO] - 75 
+[2023-03-03 13:13:49 : INFO] - Re_Smush_It_Task with attachment ID : 185, autocreated on : March 03, 2023 01:08:21 
+[2023-03-03 13:13:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:13:49 : INFO] - 75 
+[2023-03-03 13:13:49 : INFO] - Re_Smush_It_Task with attachment ID : 185, autocreated on : March 03, 2023 01:08:21 
+[2023-03-03 13:13:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:13:49 : INFO] - 75 
+[2023-03-03 13:13:51 : INFO] - Re_Smush_It_Task with attachment ID : 185, autocreated on : March 03, 2023 01:08:21 
+[2023-03-03 13:13:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:13:51 : INFO] - 75 
+[2023-03-03 13:13:53 : INFO] - Re_Smush_It_Task with attachment ID : 185, autocreated on : March 03, 2023 01:08:21 
+[2023-03-03 13:13:53 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:13:53 : INFO] - 75 
+[2023-03-03 13:13:54 : INFO] - Re_Smush_It_Task with attachment ID : 185, autocreated on : March 03, 2023 01:08:21 
+[2023-03-03 13:13:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:13:54 : INFO] - 75 
+[2023-03-03 13:13:56 : INFO] - Re_Smush_It_Task with attachment ID : 185, autocreated on : March 03, 2023 01:08:21 
+[2023-03-03 13:13:56 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:13:56 : INFO] - 75 
+[2023-03-03 13:13:57 : INFO] - Re_Smush_It_Task with attachment ID : 185, autocreated on : March 03, 2023 01:08:21 
+[2023-03-03 13:13:57 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:13:57 : INFO] - 75 
+[2023-03-03 13:13:57 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/Camera-360-Owin-plus-xem-video-online-2-scaled.jpg.The file was compressed from 382.50 KB to 310.87 KB saving 18.73 percent using WP-Optimize 
+[2023-03-03 13:13:57 : INFO] - Completed processing task with ID : 100, and type 'smush' 
+[2023-03-03 13:13:57 : INFO] - Processing task with ID : 101, and type 'smush' 
+[2023-03-03 13:13:57 : INFO] - Re_Smush_It_Task with attachment ID : 186, autocreated on : March 03, 2023 01:08:25 
+[2023-03-03 13:13:57 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:13:57 : INFO] - 75 
+[2023-03-03 13:13:59 : INFO] - Backing up the original image - 2023/03/Camera-360-Owin-plus-xem-video-online-3-scaled-updraft-pre-smush-original.jpg 
+[2023-03-03 13:13:59 : INFO] - Re_Smush_It_Task with attachment ID : 186, autocreated on : March 03, 2023 01:08:25 
+[2023-03-03 13:13:59 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:13:59 : INFO] - 75 
+[2023-03-03 13:14:00 : INFO] - Re_Smush_It_Task with attachment ID : 186, autocreated on : March 03, 2023 01:08:25 
+[2023-03-03 13:14:00 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:00 : INFO] - 75 
+[2023-03-03 13:14:02 : INFO] - Re_Smush_It_Task with attachment ID : 186, autocreated on : March 03, 2023 01:08:25 
+[2023-03-03 13:14:02 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:02 : INFO] - 75 
+[2023-03-03 13:14:02 : INFO] - Re_Smush_It_Task with attachment ID : 186, autocreated on : March 03, 2023 01:08:25 
+[2023-03-03 13:14:02 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:02 : INFO] - 75 
+[2023-03-03 13:14:04 : INFO] - Re_Smush_It_Task with attachment ID : 186, autocreated on : March 03, 2023 01:08:25 
+[2023-03-03 13:14:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:04 : INFO] - 75 
+[2023-03-03 13:14:05 : INFO] - Re_Smush_It_Task with attachment ID : 186, autocreated on : March 03, 2023 01:08:25 
+[2023-03-03 13:14:05 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:05 : INFO] - 75 
+[2023-03-03 13:14:07 : INFO] - Re_Smush_It_Task with attachment ID : 186, autocreated on : March 03, 2023 01:08:25 
+[2023-03-03 13:14:07 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:07 : INFO] - 75 
+[2023-03-03 13:14:08 : INFO] - Re_Smush_It_Task with attachment ID : 186, autocreated on : March 03, 2023 01:08:25 
+[2023-03-03 13:14:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:08 : INFO] - 75 
+[2023-03-03 13:14:09 : INFO] - Re_Smush_It_Task with attachment ID : 186, autocreated on : March 03, 2023 01:08:25 
+[2023-03-03 13:14:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:09 : INFO] - 75 
+[2023-03-03 13:14:10 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/Camera-360-Owin-plus-xem-video-online-3-scaled.jpg.The file was compressed from 351.98 KB to 286.50 KB saving 18.6 percent using WP-Optimize 
+[2023-03-03 13:14:10 : INFO] - Completed processing task with ID : 101, and type 'smush' 
+[2023-03-03 13:14:10 : INFO] - Processing task with ID : 102, and type 'smush' 
+[2023-03-03 13:14:10 : INFO] - Re_Smush_It_Task with attachment ID : 187, autocreated on : March 03, 2023 01:08:29 
+[2023-03-03 13:14:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:10 : INFO] - 75 
+[2023-03-03 13:14:12 : INFO] - Backing up the original image - 2023/03/Camera-360-Owin-plus-xem-video-online-4-scaled-updraft-pre-smush-original.jpg 
+[2023-03-03 13:14:12 : INFO] - Re_Smush_It_Task with attachment ID : 187, autocreated on : March 03, 2023 01:08:29 
+[2023-03-03 13:14:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:12 : INFO] - 75 
+[2023-03-03 13:14:13 : INFO] - Re_Smush_It_Task with attachment ID : 187, autocreated on : March 03, 2023 01:08:29 
+[2023-03-03 13:14:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:13 : INFO] - 75 
+[2023-03-03 13:14:15 : INFO] - Re_Smush_It_Task with attachment ID : 187, autocreated on : March 03, 2023 01:08:29 
+[2023-03-03 13:14:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:15 : INFO] - 75 
+[2023-03-03 13:14:15 : INFO] - Re_Smush_It_Task with attachment ID : 187, autocreated on : March 03, 2023 01:08:29 
+[2023-03-03 13:14:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:15 : INFO] - 75 
+[2023-03-03 13:14:17 : INFO] - Re_Smush_It_Task with attachment ID : 187, autocreated on : March 03, 2023 01:08:29 
+[2023-03-03 13:14:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:17 : INFO] - 75 
+[2023-03-03 13:14:18 : INFO] - Re_Smush_It_Task with attachment ID : 187, autocreated on : March 03, 2023 01:08:29 
+[2023-03-03 13:14:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:18 : INFO] - 75 
+[2023-03-03 13:14:20 : INFO] - Re_Smush_It_Task with attachment ID : 187, autocreated on : March 03, 2023 01:08:29 
+[2023-03-03 13:14:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:20 : INFO] - 75 
+[2023-03-03 13:14:21 : INFO] - Re_Smush_It_Task with attachment ID : 187, autocreated on : March 03, 2023 01:08:29 
+[2023-03-03 13:14:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:21 : INFO] - 75 
+[2023-03-03 13:14:22 : INFO] - Re_Smush_It_Task with attachment ID : 187, autocreated on : March 03, 2023 01:08:29 
+[2023-03-03 13:14:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:22 : INFO] - 75 
+[2023-03-03 13:14:23 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/Camera-360-Owin-plus-xem-video-online-4-scaled.jpg.The file was compressed from 375.65 KB to 308.44 KB saving 17.89 percent using WP-Optimize 
+[2023-03-03 13:14:23 : INFO] - Completed processing task with ID : 102, and type 'smush' 
+[2023-03-03 13:14:23 : INFO] - Processing task with ID : 103, and type 'smush' 
+[2023-03-03 13:14:23 : INFO] - Re_Smush_It_Task with attachment ID : 188, autocreated on : March 03, 2023 01:08:33 
+[2023-03-03 13:14:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:23 : INFO] - 75 
+[2023-03-03 13:14:25 : INFO] - Backing up the original image - 2023/03/Camera-360-Owin-plus-xem-video-online-5-scaled-updraft-pre-smush-original.jpg 
+[2023-03-03 13:14:25 : INFO] - Re_Smush_It_Task with attachment ID : 188, autocreated on : March 03, 2023 01:08:33 
+[2023-03-03 13:14:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:25 : INFO] - 75 
+[2023-03-03 13:14:26 : INFO] - Re_Smush_It_Task with attachment ID : 188, autocreated on : March 03, 2023 01:08:33 
+[2023-03-03 13:14:26 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:26 : INFO] - 75 
+[2023-03-03 13:14:28 : INFO] - Re_Smush_It_Task with attachment ID : 188, autocreated on : March 03, 2023 01:08:33 
+[2023-03-03 13:14:28 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:28 : INFO] - 75 
+[2023-03-03 13:14:28 : INFO] - Re_Smush_It_Task with attachment ID : 188, autocreated on : March 03, 2023 01:08:33 
+[2023-03-03 13:14:28 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:28 : INFO] - 75 
+[2023-03-03 13:14:30 : INFO] - Re_Smush_It_Task with attachment ID : 188, autocreated on : March 03, 2023 01:08:33 
+[2023-03-03 13:14:30 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:30 : INFO] - 75 
+[2023-03-03 13:14:31 : INFO] - Re_Smush_It_Task with attachment ID : 188, autocreated on : March 03, 2023 01:08:33 
+[2023-03-03 13:14:31 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:31 : INFO] - 75 
+[2023-03-03 13:14:33 : INFO] - Re_Smush_It_Task with attachment ID : 188, autocreated on : March 03, 2023 01:08:33 
+[2023-03-03 13:14:33 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:33 : INFO] - 75 
+[2023-03-03 13:14:34 : INFO] - Re_Smush_It_Task with attachment ID : 188, autocreated on : March 03, 2023 01:08:33 
+[2023-03-03 13:14:34 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:34 : INFO] - 75 
+[2023-03-03 13:14:35 : INFO] - Re_Smush_It_Task with attachment ID : 188, autocreated on : March 03, 2023 01:08:33 
+[2023-03-03 13:14:35 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:35 : INFO] - 75 
+[2023-03-03 13:14:36 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/Camera-360-Owin-plus-xem-video-online-5-scaled.jpg.The file was compressed from 425.65 KB to 350.78 KB saving 17.59 percent using WP-Optimize 
+[2023-03-03 13:14:36 : INFO] - Completed processing task with ID : 103, and type 'smush' 
+[2023-03-03 13:14:36 : INFO] - Processing task with ID : 104, and type 'smush' 
+[2023-03-03 13:14:36 : INFO] - Re_Smush_It_Task with attachment ID : 189, autocreated on : March 03, 2023 01:08:37 
+[2023-03-03 13:14:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:36 : INFO] - 75 
+[2023-03-03 13:14:39 : INFO] - Backing up the original image - 2023/03/Camera-360-Owin-plus-xem-video-online-6-scaled-updraft-pre-smush-original.jpg 
+[2023-03-03 13:14:39 : INFO] - Re_Smush_It_Task with attachment ID : 189, autocreated on : March 03, 2023 01:08:37 
+[2023-03-03 13:14:39 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:39 : INFO] - 75 
+[2023-03-03 13:14:40 : INFO] - Re_Smush_It_Task with attachment ID : 189, autocreated on : March 03, 2023 01:08:37 
+[2023-03-03 13:14:40 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:40 : INFO] - 75 
+[2023-03-03 13:14:41 : INFO] - Re_Smush_It_Task with attachment ID : 189, autocreated on : March 03, 2023 01:08:37 
+[2023-03-03 13:14:41 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:41 : INFO] - 75 
+[2023-03-03 13:14:42 : INFO] - Re_Smush_It_Task with attachment ID : 189, autocreated on : March 03, 2023 01:08:37 
+[2023-03-03 13:14:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:42 : INFO] - 75 
+[2023-03-03 13:14:43 : INFO] - Re_Smush_It_Task with attachment ID : 189, autocreated on : March 03, 2023 01:08:37 
+[2023-03-03 13:14:43 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:43 : INFO] - 75 
+[2023-03-03 13:14:45 : INFO] - Re_Smush_It_Task with attachment ID : 189, autocreated on : March 03, 2023 01:08:37 
+[2023-03-03 13:14:45 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:45 : INFO] - 75 
+[2023-03-03 13:14:48 : INFO] - Re_Smush_It_Task with attachment ID : 189, autocreated on : March 03, 2023 01:08:37 
+[2023-03-03 13:14:48 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:48 : INFO] - 75 
+[2023-03-03 13:14:49 : INFO] - Re_Smush_It_Task with attachment ID : 189, autocreated on : March 03, 2023 01:08:37 
+[2023-03-03 13:14:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:49 : INFO] - 75 
+[2023-03-03 13:14:50 : INFO] - Re_Smush_It_Task with attachment ID : 189, autocreated on : March 03, 2023 01:08:37 
+[2023-03-03 13:14:50 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:50 : INFO] - 75 
+[2023-03-03 13:14:51 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/Camera-360-Owin-plus-xem-video-online-6-scaled.jpg.The file was compressed from 835.05 KB to 719.72 KB saving 13.81 percent using WP-Optimize 
+[2023-03-03 13:14:51 : INFO] - Completed processing task with ID : 104, and type 'smush' 
+[2023-03-03 13:14:51 : INFO] - Processing task with ID : 105, and type 'smush' 
+[2023-03-03 13:14:51 : INFO] - Re_Smush_It_Task with attachment ID : 190, autocreated on : March 03, 2023 01:08:39 
+[2023-03-03 13:14:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:51 : INFO] - 75 
+[2023-03-03 13:14:54 : INFO] - Backing up the original image - 2023/03/Camera-360-Owin-plus-xem-video-online-7-scaled-updraft-pre-smush-original.jpg 
+[2023-03-03 13:14:54 : INFO] - Re_Smush_It_Task with attachment ID : 190, autocreated on : March 03, 2023 01:08:39 
+[2023-03-03 13:14:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:54 : INFO] - 75 
+[2023-03-03 13:14:54 : INFO] - Re_Smush_It_Task with attachment ID : 190, autocreated on : March 03, 2023 01:08:39 
+[2023-03-03 13:14:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:54 : INFO] - 75 
+[2023-03-03 13:14:56 : INFO] - Re_Smush_It_Task with attachment ID : 190, autocreated on : March 03, 2023 01:08:39 
+[2023-03-03 13:14:56 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:56 : INFO] - 75 
+[2023-03-03 13:14:57 : INFO] - Re_Smush_It_Task with attachment ID : 190, autocreated on : March 03, 2023 01:08:39 
+[2023-03-03 13:14:57 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:57 : INFO] - 75 
+[2023-03-03 13:14:58 : INFO] - Re_Smush_It_Task with attachment ID : 190, autocreated on : March 03, 2023 01:08:39 
+[2023-03-03 13:14:58 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:14:58 : INFO] - 75 
+[2023-03-03 13:15:01 : INFO] - Re_Smush_It_Task with attachment ID : 190, autocreated on : March 03, 2023 01:08:39 
+[2023-03-03 13:15:01 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:01 : INFO] - 75 
+[2023-03-03 13:15:04 : INFO] - Re_Smush_It_Task with attachment ID : 190, autocreated on : March 03, 2023 01:08:39 
+[2023-03-03 13:15:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:04 : INFO] - 75 
+[2023-03-03 13:15:05 : INFO] - Re_Smush_It_Task with attachment ID : 190, autocreated on : March 03, 2023 01:08:39 
+[2023-03-03 13:15:05 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:05 : INFO] - 75 
+[2023-03-03 13:15:06 : INFO] - Re_Smush_It_Task with attachment ID : 190, autocreated on : March 03, 2023 01:08:39 
+[2023-03-03 13:15:06 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:06 : INFO] - 75 
+[2023-03-03 13:15:07 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/Camera-360-Owin-plus-xem-video-online-7-scaled.jpg.The file was compressed from 612.66 KB to 529.66 KB saving 13.55 percent using WP-Optimize 
+[2023-03-03 13:15:07 : INFO] - Completed processing task with ID : 105, and type 'smush' 
+[2023-03-03 13:15:07 : INFO] - Processing task with ID : 106, and type 'smush' 
+[2023-03-03 13:15:07 : INFO] - Re_Smush_It_Task with attachment ID : 191, autocreated on : March 03, 2023 01:08:41 
+[2023-03-03 13:15:07 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:07 : INFO] - 75 
+[2023-03-03 13:15:10 : INFO] - Backing up the original image - 2023/03/Camera-360-Owin-plus-xem-video-online-8-scaled-updraft-pre-smush-original.jpg 
+[2023-03-03 13:15:10 : INFO] - Re_Smush_It_Task with attachment ID : 191, autocreated on : March 03, 2023 01:08:41 
+[2023-03-03 13:15:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:10 : INFO] - 75 
+[2023-03-03 13:15:11 : INFO] - Re_Smush_It_Task with attachment ID : 191, autocreated on : March 03, 2023 01:08:41 
+[2023-03-03 13:15:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:11 : INFO] - 75 
+[2023-03-03 13:15:13 : INFO] - Re_Smush_It_Task with attachment ID : 191, autocreated on : March 03, 2023 01:08:41 
+[2023-03-03 13:15:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:13 : INFO] - 75 
+[2023-03-03 13:15:13 : INFO] - Re_Smush_It_Task with attachment ID : 191, autocreated on : March 03, 2023 01:08:41 
+[2023-03-03 13:15:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:13 : INFO] - 75 
+[2023-03-03 13:15:15 : INFO] - Re_Smush_It_Task with attachment ID : 191, autocreated on : March 03, 2023 01:08:41 
+[2023-03-03 13:15:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:15 : INFO] - 75 
+[2023-03-03 13:15:17 : INFO] - Re_Smush_It_Task with attachment ID : 191, autocreated on : March 03, 2023 01:08:41 
+[2023-03-03 13:15:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:17 : INFO] - 75 
+[2023-03-03 13:15:19 : INFO] - Re_Smush_It_Task with attachment ID : 191, autocreated on : March 03, 2023 01:08:41 
+[2023-03-03 13:15:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:19 : INFO] - 75 
+[2023-03-03 13:15:20 : INFO] - Re_Smush_It_Task with attachment ID : 191, autocreated on : March 03, 2023 01:08:41 
+[2023-03-03 13:15:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:20 : INFO] - 75 
+[2023-03-03 13:15:22 : INFO] - Re_Smush_It_Task with attachment ID : 191, autocreated on : March 03, 2023 01:08:41 
+[2023-03-03 13:15:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:22 : INFO] - 75 
+[2023-03-03 13:15:22 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/Camera-360-Owin-plus-xem-video-online-8-scaled.jpg.The file was compressed from 441.72 KB to 363.73 KB saving 17.66 percent using WP-Optimize 
+[2023-03-03 13:15:22 : INFO] - Completed processing task with ID : 106, and type 'smush' 
+[2023-03-03 13:15:22 : INFO] - Processing task with ID : 107, and type 'smush' 
+[2023-03-03 13:15:22 : INFO] - Re_Smush_It_Task with attachment ID : 192, autocreated on : March 03, 2023 01:08:44 
+[2023-03-03 13:15:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:22 : INFO] - 75 
+[2023-03-03 13:15:25 : INFO] - Backing up the original image - 2023/03/Camera-360-Owin-plus-xem-video-online-9-scaled-updraft-pre-smush-original.jpg 
+[2023-03-03 13:15:25 : INFO] - Re_Smush_It_Task with attachment ID : 192, autocreated on : March 03, 2023 01:08:44 
+[2023-03-03 13:15:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:25 : INFO] - 75 
+[2023-03-03 13:15:26 : INFO] - Re_Smush_It_Task with attachment ID : 192, autocreated on : March 03, 2023 01:08:44 
+[2023-03-03 13:15:26 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:26 : INFO] - 75 
+[2023-03-03 13:15:27 : INFO] - Re_Smush_It_Task with attachment ID : 192, autocreated on : March 03, 2023 01:08:44 
+[2023-03-03 13:15:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:27 : INFO] - 75 
+[2023-03-03 13:15:28 : INFO] - Re_Smush_It_Task with attachment ID : 192, autocreated on : March 03, 2023 01:08:44 
+[2023-03-03 13:15:28 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:28 : INFO] - 75 
+[2023-03-03 13:15:29 : INFO] - Re_Smush_It_Task with attachment ID : 192, autocreated on : March 03, 2023 01:08:44 
+[2023-03-03 13:15:29 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:29 : INFO] - 75 
+[2023-03-03 13:15:31 : INFO] - Re_Smush_It_Task with attachment ID : 192, autocreated on : March 03, 2023 01:08:44 
+[2023-03-03 13:15:31 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:31 : INFO] - 75 
+[2023-03-03 13:15:34 : INFO] - Re_Smush_It_Task with attachment ID : 192, autocreated on : March 03, 2023 01:08:44 
+[2023-03-03 13:15:34 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:34 : INFO] - 75 
+[2023-03-03 13:15:35 : INFO] - Re_Smush_It_Task with attachment ID : 192, autocreated on : March 03, 2023 01:08:44 
+[2023-03-03 13:15:35 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:35 : INFO] - 75 
+[2023-03-03 13:15:36 : INFO] - Re_Smush_It_Task with attachment ID : 192, autocreated on : March 03, 2023 01:08:44 
+[2023-03-03 13:15:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:36 : INFO] - 75 
+[2023-03-03 13:15:37 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/Camera-360-Owin-plus-xem-video-online-9-scaled.jpg.The file was compressed from 346.90 KB to 283.03 KB saving 18.41 percent using WP-Optimize 
+[2023-03-03 13:15:37 : INFO] - Completed processing task with ID : 107, and type 'smush' 
+[2023-03-03 13:15:37 : INFO] - Processing task with ID : 108, and type 'smush' 
+[2023-03-03 13:15:37 : INFO] - Re_Smush_It_Task with attachment ID : 193, autocreated on : March 03, 2023 01:08:47 
+[2023-03-03 13:15:37 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:37 : INFO] - 75 
+[2023-03-03 13:15:39 : INFO] - Backing up the original image - 2023/03/Camera-360-Owin-plus-xem-video-online-10-scaled-updraft-pre-smush-original.jpg 
+[2023-03-03 13:15:39 : INFO] - Re_Smush_It_Task with attachment ID : 193, autocreated on : March 03, 2023 01:08:47 
+[2023-03-03 13:15:39 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:39 : INFO] - 75 
+[2023-03-03 13:15:40 : INFO] - Re_Smush_It_Task with attachment ID : 193, autocreated on : March 03, 2023 01:08:47 
+[2023-03-03 13:15:40 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:40 : INFO] - 75 
+[2023-03-03 13:15:41 : INFO] - Re_Smush_It_Task with attachment ID : 193, autocreated on : March 03, 2023 01:08:47 
+[2023-03-03 13:15:41 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:41 : INFO] - 75 
+[2023-03-03 13:15:42 : INFO] - Re_Smush_It_Task with attachment ID : 193, autocreated on : March 03, 2023 01:08:47 
+[2023-03-03 13:15:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:42 : INFO] - 75 
+[2023-03-03 13:15:43 : INFO] - Re_Smush_It_Task with attachment ID : 193, autocreated on : March 03, 2023 01:08:47 
+[2023-03-03 13:15:43 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:43 : INFO] - 75 
+[2023-03-03 13:15:45 : INFO] - Re_Smush_It_Task with attachment ID : 193, autocreated on : March 03, 2023 01:08:47 
+[2023-03-03 13:15:45 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:45 : INFO] - 75 
+[2023-03-03 13:15:47 : INFO] - Re_Smush_It_Task with attachment ID : 193, autocreated on : March 03, 2023 01:08:47 
+[2023-03-03 13:15:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:47 : INFO] - 75 
+[2023-03-03 13:15:48 : INFO] - Re_Smush_It_Task with attachment ID : 193, autocreated on : March 03, 2023 01:08:47 
+[2023-03-03 13:15:48 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:48 : INFO] - 75 
+[2023-03-03 13:15:49 : INFO] - Re_Smush_It_Task with attachment ID : 193, autocreated on : March 03, 2023 01:08:47 
+[2023-03-03 13:15:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:49 : INFO] - 75 
+[2023-03-03 13:15:50 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/Camera-360-Owin-plus-xem-video-online-10-scaled.jpg.The file was compressed from 301.61 KB to 243.89 KB saving 19.14 percent using WP-Optimize 
+[2023-03-03 13:15:50 : INFO] - Completed processing task with ID : 108, and type 'smush' 
+[2023-03-03 13:15:50 : INFO] - Processing task with ID : 109, and type 'smush' 
+[2023-03-03 13:15:50 : INFO] - Re_Smush_It_Task with attachment ID : 194, autocreated on : March 03, 2023 01:08:51 
+[2023-03-03 13:15:50 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:50 : INFO] - 75 
+[2023-03-03 13:15:53 : INFO] - Backing up the original image - 2023/03/Camera-360-Owin-plus-xem-video-online-11-scaled-updraft-pre-smush-original.jpg 
+[2023-03-03 13:15:53 : INFO] - Re_Smush_It_Task with attachment ID : 194, autocreated on : March 03, 2023 01:08:51 
+[2023-03-03 13:15:53 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:53 : INFO] - 75 
+[2023-03-03 13:15:54 : INFO] - Re_Smush_It_Task with attachment ID : 194, autocreated on : March 03, 2023 01:08:51 
+[2023-03-03 13:15:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:54 : INFO] - 75 
+[2023-03-03 13:15:56 : INFO] - Re_Smush_It_Task with attachment ID : 194, autocreated on : March 03, 2023 01:08:51 
+[2023-03-03 13:15:56 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:56 : INFO] - 75 
+[2023-03-03 13:15:57 : INFO] - Re_Smush_It_Task with attachment ID : 194, autocreated on : March 03, 2023 01:08:51 
+[2023-03-03 13:15:57 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:57 : INFO] - 75 
+[2023-03-03 13:15:58 : INFO] - Re_Smush_It_Task with attachment ID : 194, autocreated on : March 03, 2023 01:08:51 
+[2023-03-03 13:15:58 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:15:58 : INFO] - 75 
+[2023-03-03 13:16:00 : INFO] - Re_Smush_It_Task with attachment ID : 194, autocreated on : March 03, 2023 01:08:51 
+[2023-03-03 13:16:00 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:00 : INFO] - 75 
+[2023-03-03 13:16:03 : INFO] - Re_Smush_It_Task with attachment ID : 194, autocreated on : March 03, 2023 01:08:51 
+[2023-03-03 13:16:03 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:03 : INFO] - 75 
+[2023-03-03 13:16:04 : INFO] - Re_Smush_It_Task with attachment ID : 194, autocreated on : March 03, 2023 01:08:51 
+[2023-03-03 13:16:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:04 : INFO] - 75 
+[2023-03-03 13:16:06 : INFO] - Re_Smush_It_Task with attachment ID : 194, autocreated on : March 03, 2023 01:08:51 
+[2023-03-03 13:16:06 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:06 : INFO] - 75 
+[2023-03-03 13:16:06 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/Camera-360-Owin-plus-xem-video-online-11-scaled.jpg.The file was compressed from 613.55 KB to 530.99 KB saving 13.46 percent using WP-Optimize 
+[2023-03-03 13:16:06 : INFO] - Completed processing task with ID : 109, and type 'smush' 
+[2023-03-03 13:16:06 : INFO] - Processing task with ID : 110, and type 'smush' 
+[2023-03-03 13:16:06 : INFO] - Re_Smush_It_Task with attachment ID : 195, autocreated on : March 03, 2023 01:08:53 
+[2023-03-03 13:16:06 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:06 : INFO] - 75 
+[2023-03-03 13:16:09 : INFO] - Backing up the original image - 2023/03/Camera-360-Owin-plus-xem-video-online-12-updraft-pre-smush-original.jpg 
+[2023-03-03 13:16:09 : INFO] - Re_Smush_It_Task with attachment ID : 195, autocreated on : March 03, 2023 01:08:53 
+[2023-03-03 13:16:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:09 : INFO] - 75 
+[2023-03-03 13:16:10 : INFO] - Re_Smush_It_Task with attachment ID : 195, autocreated on : March 03, 2023 01:08:53 
+[2023-03-03 13:16:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:10 : INFO] - 75 
+[2023-03-03 13:16:11 : INFO] - Re_Smush_It_Task with attachment ID : 195, autocreated on : March 03, 2023 01:08:53 
+[2023-03-03 13:16:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:11 : INFO] - 75 
+[2023-03-03 13:16:12 : INFO] - Re_Smush_It_Task with attachment ID : 195, autocreated on : March 03, 2023 01:08:53 
+[2023-03-03 13:16:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:12 : INFO] - 75 
+[2023-03-03 13:16:13 : INFO] - Re_Smush_It_Task with attachment ID : 195, autocreated on : March 03, 2023 01:08:53 
+[2023-03-03 13:16:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:13 : INFO] - 75 
+[2023-03-03 13:16:15 : INFO] - Re_Smush_It_Task with attachment ID : 195, autocreated on : March 03, 2023 01:08:53 
+[2023-03-03 13:16:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:15 : INFO] - 75 
+[2023-03-03 13:16:16 : INFO] - Re_Smush_It_Task with attachment ID : 195, autocreated on : March 03, 2023 01:08:53 
+[2023-03-03 13:16:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:16 : INFO] - 75 
+[2023-03-03 13:16:17 : INFO] - Re_Smush_It_Task with attachment ID : 195, autocreated on : March 03, 2023 01:08:53 
+[2023-03-03 13:16:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:17 : INFO] - 75 
+[2023-03-03 13:16:18 : INFO] - Re_Smush_It_Task with attachment ID : 195, autocreated on : March 03, 2023 01:08:53 
+[2023-03-03 13:16:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:18 : INFO] - 75 
+[2023-03-03 13:16:19 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/Camera-360-Owin-plus-xem-video-online-12.jpg.The file was compressed from 400.03 KB to 171.28 KB saving 57.18 percent using WP-Optimize 
+[2023-03-03 13:16:19 : INFO] - Completed processing task with ID : 110, and type 'smush' 
+[2023-03-03 13:16:19 : INFO] - Processing task with ID : 111, and type 'smush' 
+[2023-03-03 13:16:19 : INFO] - Re_Smush_It_Task with attachment ID : 196, autocreated on : March 03, 2023 01:08:55 
+[2023-03-03 13:16:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:19 : INFO] - 75 
+[2023-03-03 13:16:22 : INFO] - Backing up the original image - 2023/03/Camera-360-Owin-plus-xem-video-online-13-updraft-pre-smush-original.jpg 
+[2023-03-03 13:16:22 : INFO] - Re_Smush_It_Task with attachment ID : 196, autocreated on : March 03, 2023 01:08:55 
+[2023-03-03 13:16:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:22 : INFO] - 75 
+[2023-03-03 13:16:22 : INFO] - Re_Smush_It_Task with attachment ID : 196, autocreated on : March 03, 2023 01:08:55 
+[2023-03-03 13:16:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:22 : INFO] - 75 
+[2023-03-03 13:16:24 : INFO] - Re_Smush_It_Task with attachment ID : 196, autocreated on : March 03, 2023 01:08:55 
+[2023-03-03 13:16:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:24 : INFO] - 75 
+[2023-03-03 13:16:24 : INFO] - Re_Smush_It_Task with attachment ID : 196, autocreated on : March 03, 2023 01:08:55 
+[2023-03-03 13:16:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:24 : INFO] - 75 
+[2023-03-03 13:16:26 : INFO] - Re_Smush_It_Task with attachment ID : 196, autocreated on : March 03, 2023 01:08:55 
+[2023-03-03 13:16:26 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:26 : INFO] - 75 
+[2023-03-03 13:16:27 : INFO] - Re_Smush_It_Task with attachment ID : 196, autocreated on : March 03, 2023 01:08:55 
+[2023-03-03 13:16:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:27 : INFO] - 75 
+[2023-03-03 13:16:29 : INFO] - Re_Smush_It_Task with attachment ID : 196, autocreated on : March 03, 2023 01:08:55 
+[2023-03-03 13:16:29 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:29 : INFO] - 75 
+[2023-03-03 13:16:30 : INFO] - Re_Smush_It_Task with attachment ID : 196, autocreated on : March 03, 2023 01:08:55 
+[2023-03-03 13:16:30 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:30 : INFO] - 75 
+[2023-03-03 13:16:31 : INFO] - Re_Smush_It_Task with attachment ID : 196, autocreated on : March 03, 2023 01:08:55 
+[2023-03-03 13:16:31 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:31 : INFO] - 75 
+[2023-03-03 13:16:32 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/Camera-360-Owin-plus-xem-video-online-13.jpg.The file was compressed from 442.87 KB to 195.47 KB saving 55.86 percent using WP-Optimize 
+[2023-03-03 13:16:32 : INFO] - Completed processing task with ID : 111, and type 'smush' 
+[2023-03-03 13:16:32 : INFO] - Processing task with ID : 112, and type 'smush' 
+[2023-03-03 13:16:32 : INFO] - Re_Smush_It_Task with attachment ID : 197, autocreated on : March 03, 2023 01:08:56 
+[2023-03-03 13:16:32 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:32 : INFO] - 75 
+[2023-03-03 13:16:34 : INFO] - Backing up the original image - 2023/03/Camera-360-Owin-plus-xem-video-online-14-updraft-pre-smush-original.jpg 
+[2023-03-03 13:16:34 : INFO] - Re_Smush_It_Task with attachment ID : 197, autocreated on : March 03, 2023 01:08:56 
+[2023-03-03 13:16:34 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:34 : INFO] - 75 
+[2023-03-03 13:16:35 : INFO] - Re_Smush_It_Task with attachment ID : 197, autocreated on : March 03, 2023 01:08:56 
+[2023-03-03 13:16:35 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:35 : INFO] - 75 
+[2023-03-03 13:16:36 : INFO] - Re_Smush_It_Task with attachment ID : 197, autocreated on : March 03, 2023 01:08:56 
+[2023-03-03 13:16:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:36 : INFO] - 75 
+[2023-03-03 13:16:37 : INFO] - Re_Smush_It_Task with attachment ID : 197, autocreated on : March 03, 2023 01:08:56 
+[2023-03-03 13:16:37 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:37 : INFO] - 75 
+[2023-03-03 13:16:38 : INFO] - Re_Smush_It_Task with attachment ID : 197, autocreated on : March 03, 2023 01:08:56 
+[2023-03-03 13:16:38 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:38 : INFO] - 75 
+[2023-03-03 13:16:40 : INFO] - Re_Smush_It_Task with attachment ID : 197, autocreated on : March 03, 2023 01:08:56 
+[2023-03-03 13:16:40 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:40 : INFO] - 75 
+[2023-03-03 13:16:42 : INFO] - Re_Smush_It_Task with attachment ID : 197, autocreated on : March 03, 2023 01:08:56 
+[2023-03-03 13:16:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:42 : INFO] - 75 
+[2023-03-03 13:16:42 : INFO] - Re_Smush_It_Task with attachment ID : 197, autocreated on : March 03, 2023 01:08:56 
+[2023-03-03 13:16:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:42 : INFO] - 75 
+[2023-03-03 13:16:43 : INFO] - Re_Smush_It_Task with attachment ID : 197, autocreated on : March 03, 2023 01:08:56 
+[2023-03-03 13:16:43 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:43 : INFO] - 75 
+[2023-03-03 13:16:44 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/Camera-360-Owin-plus-xem-video-online-14.jpg.The file was compressed from 355.48 KB to 165.21 KB saving 53.52 percent using WP-Optimize 
+[2023-03-03 13:16:44 : INFO] - Completed processing task with ID : 112, and type 'smush' 
+[2023-03-03 13:16:44 : INFO] - Processing task with ID : 113, and type 'smush' 
+[2023-03-03 13:16:44 : INFO] - Re_Smush_It_Task with attachment ID : 198, autocreated on : March 03, 2023 01:08:58 
+[2023-03-03 13:16:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:44 : INFO] - 75 
+[2023-03-03 13:16:47 : INFO] - Backing up the original image - 2023/03/Camera-360-Owin-plus-xem-video-online-15-updraft-pre-smush-original.jpg 
+[2023-03-03 13:16:47 : INFO] - Re_Smush_It_Task with attachment ID : 198, autocreated on : March 03, 2023 01:08:58 
+[2023-03-03 13:16:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:47 : INFO] - 75 
+[2023-03-03 13:16:48 : INFO] - Re_Smush_It_Task with attachment ID : 198, autocreated on : March 03, 2023 01:08:58 
+[2023-03-03 13:16:48 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:48 : INFO] - 75 
+[2023-03-03 13:16:49 : INFO] - Re_Smush_It_Task with attachment ID : 198, autocreated on : March 03, 2023 01:08:58 
+[2023-03-03 13:16:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:49 : INFO] - 75 
+[2023-03-03 13:16:50 : INFO] - Re_Smush_It_Task with attachment ID : 198, autocreated on : March 03, 2023 01:08:58 
+[2023-03-03 13:16:50 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:50 : INFO] - 75 
+[2023-03-03 13:16:51 : INFO] - Re_Smush_It_Task with attachment ID : 198, autocreated on : March 03, 2023 01:08:58 
+[2023-03-03 13:16:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:51 : INFO] - 75 
+[2023-03-03 13:16:53 : INFO] - Re_Smush_It_Task with attachment ID : 198, autocreated on : March 03, 2023 01:08:58 
+[2023-03-03 13:16:53 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:53 : INFO] - 75 
+[2023-03-03 13:16:55 : INFO] - Re_Smush_It_Task with attachment ID : 198, autocreated on : March 03, 2023 01:08:58 
+[2023-03-03 13:16:55 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:55 : INFO] - 75 
+[2023-03-03 13:16:56 : INFO] - Re_Smush_It_Task with attachment ID : 198, autocreated on : March 03, 2023 01:08:58 
+[2023-03-03 13:16:56 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:56 : INFO] - 75 
+[2023-03-03 13:16:57 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/Camera-360-Owin-plus-xem-video-online-15.jpg.The file was compressed from 416.11 KB to 272.47 KB saving 34.52 percent using WP-Optimize 
+[2023-03-03 13:16:57 : INFO] - Completed processing task with ID : 113, and type 'smush' 
+[2023-03-03 13:16:57 : INFO] - Processing task with ID : 114, and type 'smush' 
+[2023-03-03 13:16:57 : INFO] - Re_Smush_It_Task with attachment ID : 199, autocreated on : March 03, 2023 01:09:00 
+[2023-03-03 13:16:57 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:16:57 : INFO] - 75 
+[2023-03-03 13:17:00 : INFO] - Backing up the original image - 2023/03/Camera-360-Owin-plus-xem-video-online-16-updraft-pre-smush-original.jpg 
+[2023-03-03 13:17:00 : INFO] - Re_Smush_It_Task with attachment ID : 199, autocreated on : March 03, 2023 01:09:00 
+[2023-03-03 13:17:00 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:00 : INFO] - 75 
+[2023-03-03 13:17:01 : INFO] - Re_Smush_It_Task with attachment ID : 199, autocreated on : March 03, 2023 01:09:00 
+[2023-03-03 13:17:01 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:01 : INFO] - 75 
+[2023-03-03 13:17:02 : INFO] - Re_Smush_It_Task with attachment ID : 199, autocreated on : March 03, 2023 01:09:00 
+[2023-03-03 13:17:02 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:02 : INFO] - 75 
+[2023-03-03 13:17:03 : INFO] - Re_Smush_It_Task with attachment ID : 199, autocreated on : March 03, 2023 01:09:00 
+[2023-03-03 13:17:03 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:03 : INFO] - 75 
+[2023-03-03 13:17:04 : INFO] - Re_Smush_It_Task with attachment ID : 199, autocreated on : March 03, 2023 01:09:00 
+[2023-03-03 13:17:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:04 : INFO] - 75 
+[2023-03-03 13:17:05 : INFO] - Re_Smush_It_Task with attachment ID : 199, autocreated on : March 03, 2023 01:09:00 
+[2023-03-03 13:17:05 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:05 : INFO] - 75 
+[2023-03-03 13:17:07 : INFO] - Re_Smush_It_Task with attachment ID : 199, autocreated on : March 03, 2023 01:09:00 
+[2023-03-03 13:17:07 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:07 : INFO] - 75 
+[2023-03-03 13:17:08 : INFO] - Re_Smush_It_Task with attachment ID : 199, autocreated on : March 03, 2023 01:09:00 
+[2023-03-03 13:17:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:08 : INFO] - 75 
+[2023-03-03 13:17:09 : INFO] - Re_Smush_It_Task with attachment ID : 199, autocreated on : March 03, 2023 01:09:00 
+[2023-03-03 13:17:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:09 : INFO] - 75 
+[2023-03-03 13:17:10 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/Camera-360-Owin-plus-xem-video-online-16.jpg.The file was compressed from 423.33 KB to 246.75 KB saving 41.71 percent using WP-Optimize 
+[2023-03-03 13:17:10 : INFO] - Completed processing task with ID : 114, and type 'smush' 
+[2023-03-03 13:17:10 : INFO] - Processing task with ID : 115, and type 'smush' 
+[2023-03-03 13:17:10 : INFO] - Re_Smush_It_Task with attachment ID : 200, autocreated on : March 03, 2023 01:09:01 
+[2023-03-03 13:17:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:10 : INFO] - 75 
+[2023-03-03 13:17:13 : INFO] - Backing up the original image - 2023/03/Camera-360-Owin-plus-xem-video-online-17-scaled-updraft-pre-smush-original.jpg 
+[2023-03-03 13:17:13 : INFO] - Re_Smush_It_Task with attachment ID : 200, autocreated on : March 03, 2023 01:09:01 
+[2023-03-03 13:17:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:13 : INFO] - 75 
+[2023-03-03 13:17:14 : INFO] - Re_Smush_It_Task with attachment ID : 200, autocreated on : March 03, 2023 01:09:01 
+[2023-03-03 13:17:14 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:14 : INFO] - 75 
+[2023-03-03 13:17:15 : INFO] - Re_Smush_It_Task with attachment ID : 200, autocreated on : March 03, 2023 01:09:01 
+[2023-03-03 13:17:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:15 : INFO] - 75 
+[2023-03-03 13:17:16 : INFO] - Re_Smush_It_Task with attachment ID : 200, autocreated on : March 03, 2023 01:09:01 
+[2023-03-03 13:17:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:16 : INFO] - 75 
+[2023-03-03 13:17:17 : INFO] - Re_Smush_It_Task with attachment ID : 200, autocreated on : March 03, 2023 01:09:01 
+[2023-03-03 13:17:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:17 : INFO] - 75 
+[2023-03-03 13:17:19 : INFO] - Re_Smush_It_Task with attachment ID : 200, autocreated on : March 03, 2023 01:09:01 
+[2023-03-03 13:17:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:19 : INFO] - 75 
+[2023-03-03 13:17:22 : INFO] - Re_Smush_It_Task with attachment ID : 200, autocreated on : March 03, 2023 01:09:01 
+[2023-03-03 13:17:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:22 : INFO] - 75 
+[2023-03-03 13:17:23 : INFO] - Re_Smush_It_Task with attachment ID : 200, autocreated on : March 03, 2023 01:09:01 
+[2023-03-03 13:17:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:23 : INFO] - 75 
+[2023-03-03 13:17:24 : INFO] - Re_Smush_It_Task with attachment ID : 200, autocreated on : March 03, 2023 01:09:01 
+[2023-03-03 13:17:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:24 : INFO] - 75 
+[2023-03-03 13:17:25 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/Camera-360-Owin-plus-xem-video-online-17-scaled.jpg.The file was compressed from 448.57 KB to 390.63 KB saving 12.92 percent using WP-Optimize 
+[2023-03-03 13:17:25 : INFO] - Completed processing task with ID : 115, and type 'smush' 
+[2023-03-03 13:17:25 : INFO] - Processing task with ID : 116, and type 'smush' 
+[2023-03-03 13:17:25 : INFO] - Re_Smush_It_Task with attachment ID : 201, autocreated on : March 03, 2023 01:09:05 
+[2023-03-03 13:17:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:25 : INFO] - 75 
+[2023-03-03 13:17:28 : INFO] - Backing up the original image - 2023/03/Camera-360-Owin-plus-xem-video-online-18-updraft-pre-smush-original.jpg 
+[2023-03-03 13:17:28 : INFO] - Re_Smush_It_Task with attachment ID : 201, autocreated on : March 03, 2023 01:09:05 
+[2023-03-03 13:17:28 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:28 : INFO] - 75 
+[2023-03-03 13:17:29 : INFO] - Re_Smush_It_Task with attachment ID : 201, autocreated on : March 03, 2023 01:09:05 
+[2023-03-03 13:17:29 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:29 : INFO] - 75 
+[2023-03-03 13:17:30 : INFO] - Re_Smush_It_Task with attachment ID : 201, autocreated on : March 03, 2023 01:09:05 
+[2023-03-03 13:17:30 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:30 : INFO] - 75 
+[2023-03-03 13:17:31 : INFO] - Re_Smush_It_Task with attachment ID : 201, autocreated on : March 03, 2023 01:09:05 
+[2023-03-03 13:17:31 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:31 : INFO] - 75 
+[2023-03-03 13:17:32 : INFO] - Re_Smush_It_Task with attachment ID : 201, autocreated on : March 03, 2023 01:09:05 
+[2023-03-03 13:17:32 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:32 : INFO] - 75 
+[2023-03-03 13:17:34 : INFO] - Re_Smush_It_Task with attachment ID : 201, autocreated on : March 03, 2023 01:09:05 
+[2023-03-03 13:17:34 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:34 : INFO] - 75 
+[2023-03-03 13:17:36 : INFO] - Re_Smush_It_Task with attachment ID : 201, autocreated on : March 03, 2023 01:09:05 
+[2023-03-03 13:17:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:36 : INFO] - 75 
+[2023-03-03 13:17:37 : INFO] - Re_Smush_It_Task with attachment ID : 201, autocreated on : March 03, 2023 01:09:05 
+[2023-03-03 13:17:37 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:37 : INFO] - 75 
+[2023-03-03 13:17:38 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/Camera-360-Owin-plus-xem-video-online-18.jpg.The file was compressed from 464.26 KB to 228.82 KB saving 50.71 percent using WP-Optimize 
+[2023-03-03 13:17:38 : INFO] - Completed processing task with ID : 116, and type 'smush' 
+[2023-03-03 13:17:38 : INFO] - Processing task with ID : 117, and type 'smush' 
+[2023-03-03 13:17:38 : INFO] - Re_Smush_It_Task with attachment ID : 202, autocreated on : March 03, 2023 01:09:07 
+[2023-03-03 13:17:38 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:38 : INFO] - 75 
+[2023-03-03 13:17:40 : INFO] - Backing up the original image - 2023/03/Camera-360-Owin-plus-xem-video-online-19-scaled-updraft-pre-smush-original.jpg 
+[2023-03-03 13:17:40 : INFO] - Re_Smush_It_Task with attachment ID : 202, autocreated on : March 03, 2023 01:09:07 
+[2023-03-03 13:17:40 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:40 : INFO] - 75 
+[2023-03-03 13:17:40 : INFO] - Re_Smush_It_Task with attachment ID : 202, autocreated on : March 03, 2023 01:09:07 
+[2023-03-03 13:17:40 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:40 : INFO] - 75 
+[2023-03-03 13:17:42 : INFO] - Re_Smush_It_Task with attachment ID : 202, autocreated on : March 03, 2023 01:09:07 
+[2023-03-03 13:17:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:42 : INFO] - 75 
+[2023-03-03 13:17:42 : INFO] - Re_Smush_It_Task with attachment ID : 202, autocreated on : March 03, 2023 01:09:07 
+[2023-03-03 13:17:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:42 : INFO] - 75 
+[2023-03-03 13:17:44 : INFO] - Re_Smush_It_Task with attachment ID : 202, autocreated on : March 03, 2023 01:09:07 
+[2023-03-03 13:17:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:44 : INFO] - 75 
+[2023-03-03 13:17:45 : INFO] - Re_Smush_It_Task with attachment ID : 202, autocreated on : March 03, 2023 01:09:07 
+[2023-03-03 13:17:45 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:45 : INFO] - 75 
+[2023-03-03 13:17:47 : INFO] - Re_Smush_It_Task with attachment ID : 202, autocreated on : March 03, 2023 01:09:07 
+[2023-03-03 13:17:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:47 : INFO] - 75 
+[2023-03-03 13:17:48 : INFO] - Re_Smush_It_Task with attachment ID : 202, autocreated on : March 03, 2023 01:09:07 
+[2023-03-03 13:17:48 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:48 : INFO] - 75 
+[2023-03-03 13:17:49 : INFO] - Re_Smush_It_Task with attachment ID : 202, autocreated on : March 03, 2023 01:09:07 
+[2023-03-03 13:17:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:49 : INFO] - 75 
+[2023-03-03 13:17:50 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/Camera-360-Owin-plus-xem-video-online-19-scaled.jpg.The file was compressed from 256.95 KB to 201.18 KB saving 21.71 percent using WP-Optimize 
+[2023-03-03 13:17:50 : INFO] - Completed processing task with ID : 117, and type 'smush' 
+[2023-03-03 13:17:50 : INFO] - Processing task with ID : 118, and type 'smush' 
+[2023-03-03 13:17:50 : INFO] - Re_Smush_It_Task with attachment ID : 203, autocreated on : March 03, 2023 01:09:09 
+[2023-03-03 13:17:50 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:50 : INFO] - 75 
+[2023-03-03 13:17:53 : INFO] - Backing up the original image - 2023/03/Camera-360-Owin-plus-xem-video-online-20-scaled-updraft-pre-smush-original.jpg 
+[2023-03-03 13:17:53 : INFO] - Re_Smush_It_Task with attachment ID : 203, autocreated on : March 03, 2023 01:09:09 
+[2023-03-03 13:17:53 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:53 : INFO] - 75 
+[2023-03-03 13:17:53 : INFO] - Re_Smush_It_Task with attachment ID : 203, autocreated on : March 03, 2023 01:09:09 
+[2023-03-03 13:17:53 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:53 : INFO] - 75 
+[2023-03-03 13:17:55 : INFO] - Re_Smush_It_Task with attachment ID : 203, autocreated on : March 03, 2023 01:09:09 
+[2023-03-03 13:17:55 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:55 : INFO] - 75 
+[2023-03-03 13:17:56 : INFO] - Re_Smush_It_Task with attachment ID : 203, autocreated on : March 03, 2023 01:09:09 
+[2023-03-03 13:17:56 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:56 : INFO] - 75 
+[2023-03-03 13:17:57 : INFO] - Re_Smush_It_Task with attachment ID : 203, autocreated on : March 03, 2023 01:09:09 
+[2023-03-03 13:17:57 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:57 : INFO] - 75 
+[2023-03-03 13:17:59 : INFO] - Re_Smush_It_Task with attachment ID : 203, autocreated on : March 03, 2023 01:09:09 
+[2023-03-03 13:17:59 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:17:59 : INFO] - 75 
+[2023-03-03 13:18:02 : INFO] - Re_Smush_It_Task with attachment ID : 203, autocreated on : March 03, 2023 01:09:09 
+[2023-03-03 13:18:02 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:02 : INFO] - 75 
+[2023-03-03 13:18:03 : INFO] - Re_Smush_It_Task with attachment ID : 203, autocreated on : March 03, 2023 01:09:09 
+[2023-03-03 13:18:03 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:03 : INFO] - 75 
+[2023-03-03 13:18:04 : INFO] - Re_Smush_It_Task with attachment ID : 203, autocreated on : March 03, 2023 01:09:09 
+[2023-03-03 13:18:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:04 : INFO] - 75 
+[2023-03-03 13:18:04 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/Camera-360-Owin-plus-xem-video-online-20-scaled.jpg.The file was compressed from 371.10 KB to 323.28 KB saving 12.89 percent using WP-Optimize 
+[2023-03-03 13:18:04 : INFO] - Completed processing task with ID : 118, and type 'smush' 
+[2023-03-03 13:18:04 : INFO] - Processing task with ID : 119, and type 'smush' 
+[2023-03-03 13:18:04 : INFO] - Re_Smush_It_Task with attachment ID : 204, autocreated on : March 03, 2023 01:09:13 
+[2023-03-03 13:18:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:04 : INFO] - 75 
+[2023-03-03 13:18:07 : INFO] - Backing up the original image - 2023/03/Camera-360-Owin-plus-xem-video-online-21-scaled-updraft-pre-smush-original.jpg 
+[2023-03-03 13:18:07 : INFO] - Re_Smush_It_Task with attachment ID : 204, autocreated on : March 03, 2023 01:09:13 
+[2023-03-03 13:18:07 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:07 : INFO] - 75 
+[2023-03-03 13:18:08 : INFO] - Re_Smush_It_Task with attachment ID : 204, autocreated on : March 03, 2023 01:09:13 
+[2023-03-03 13:18:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:08 : INFO] - 75 
+[2023-03-03 13:18:09 : INFO] - Re_Smush_It_Task with attachment ID : 204, autocreated on : March 03, 2023 01:09:13 
+[2023-03-03 13:18:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:09 : INFO] - 75 
+[2023-03-03 13:18:10 : INFO] - Re_Smush_It_Task with attachment ID : 204, autocreated on : March 03, 2023 01:09:13 
+[2023-03-03 13:18:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:10 : INFO] - 75 
+[2023-03-03 13:18:11 : INFO] - Re_Smush_It_Task with attachment ID : 204, autocreated on : March 03, 2023 01:09:13 
+[2023-03-03 13:18:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:11 : INFO] - 75 
+[2023-03-03 13:18:12 : INFO] - Re_Smush_It_Task with attachment ID : 204, autocreated on : March 03, 2023 01:09:13 
+[2023-03-03 13:18:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:12 : INFO] - 75 
+[2023-03-03 13:18:15 : INFO] - Re_Smush_It_Task with attachment ID : 204, autocreated on : March 03, 2023 01:09:13 
+[2023-03-03 13:18:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:15 : INFO] - 75 
+[2023-03-03 13:18:15 : INFO] - Re_Smush_It_Task with attachment ID : 204, autocreated on : March 03, 2023 01:09:13 
+[2023-03-03 13:18:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:15 : INFO] - 75 
+[2023-03-03 13:18:16 : INFO] - Re_Smush_It_Task with attachment ID : 204, autocreated on : March 03, 2023 01:09:13 
+[2023-03-03 13:18:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:16 : INFO] - 75 
+[2023-03-03 13:18:17 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/Camera-360-Owin-plus-xem-video-online-21-scaled.jpg.The file was compressed from 288.97 KB to 224.92 KB saving 22.17 percent using WP-Optimize 
+[2023-03-03 13:18:17 : INFO] - Completed processing task with ID : 119, and type 'smush' 
+[2023-03-03 13:18:17 : INFO] - Processing task with ID : 120, and type 'smush' 
+[2023-03-03 13:18:17 : INFO] - Re_Smush_It_Task with attachment ID : 205, autocreated on : March 03, 2023 01:09:17 
+[2023-03-03 13:18:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:17 : INFO] - 75 
+[2023-03-03 13:18:20 : INFO] - Backing up the original image - 2023/03/Camera-360-Owin-plus-xem-video-online-22-scaled-updraft-pre-smush-original.jpg 
+[2023-03-03 13:18:20 : INFO] - Re_Smush_It_Task with attachment ID : 205, autocreated on : March 03, 2023 01:09:17 
+[2023-03-03 13:18:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:20 : INFO] - 75 
+[2023-03-03 13:18:20 : INFO] - Re_Smush_It_Task with attachment ID : 205, autocreated on : March 03, 2023 01:09:17 
+[2023-03-03 13:18:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:20 : INFO] - 75 
+[2023-03-03 13:18:22 : INFO] - Re_Smush_It_Task with attachment ID : 205, autocreated on : March 03, 2023 01:09:17 
+[2023-03-03 13:18:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:22 : INFO] - 75 
+[2023-03-03 13:18:22 : INFO] - Re_Smush_It_Task with attachment ID : 205, autocreated on : March 03, 2023 01:09:17 
+[2023-03-03 13:18:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:22 : INFO] - 75 
+[2023-03-03 13:18:23 : INFO] - Re_Smush_It_Task with attachment ID : 205, autocreated on : March 03, 2023 01:09:17 
+[2023-03-03 13:18:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:23 : INFO] - 75 
+[2023-03-03 13:18:25 : INFO] - Re_Smush_It_Task with attachment ID : 205, autocreated on : March 03, 2023 01:09:17 
+[2023-03-03 13:18:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:25 : INFO] - 75 
+[2023-03-03 13:18:27 : INFO] - Re_Smush_It_Task with attachment ID : 205, autocreated on : March 03, 2023 01:09:17 
+[2023-03-03 13:18:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:27 : INFO] - 75 
+[2023-03-03 13:18:28 : INFO] - Re_Smush_It_Task with attachment ID : 205, autocreated on : March 03, 2023 01:09:17 
+[2023-03-03 13:18:28 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:28 : INFO] - 75 
+[2023-03-03 13:18:29 : INFO] - Re_Smush_It_Task with attachment ID : 205, autocreated on : March 03, 2023 01:09:17 
+[2023-03-03 13:18:29 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:29 : INFO] - 75 
+[2023-03-03 13:18:30 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/Camera-360-Owin-plus-xem-video-online-22-scaled.jpg.The file was compressed from 317.00 KB to 248.03 KB saving 21.76 percent using WP-Optimize 
+[2023-03-03 13:18:30 : INFO] - Completed processing task with ID : 120, and type 'smush' 
+[2023-03-03 13:18:30 : INFO] - Processing task with ID : 121, and type 'smush' 
+[2023-03-03 13:18:30 : INFO] - Re_Smush_It_Task with attachment ID : 206, autocreated on : March 03, 2023 01:09:21 
+[2023-03-03 13:18:30 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:30 : INFO] - 75 
+[2023-03-03 13:18:33 : INFO] - Backing up the original image - 2023/03/Camera-360-Owin-plus-xem-video-online-23-scaled-updraft-pre-smush-original.jpg 
+[2023-03-03 13:18:33 : INFO] - Re_Smush_It_Task with attachment ID : 206, autocreated on : March 03, 2023 01:09:21 
+[2023-03-03 13:18:33 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:33 : INFO] - 75 
+[2023-03-03 13:18:34 : INFO] - Re_Smush_It_Task with attachment ID : 206, autocreated on : March 03, 2023 01:09:21 
+[2023-03-03 13:18:34 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:34 : INFO] - 75 
+[2023-03-03 13:18:35 : INFO] - Re_Smush_It_Task with attachment ID : 206, autocreated on : March 03, 2023 01:09:21 
+[2023-03-03 13:18:35 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:35 : INFO] - 75 
+[2023-03-03 13:18:36 : INFO] - Re_Smush_It_Task with attachment ID : 206, autocreated on : March 03, 2023 01:09:21 
+[2023-03-03 13:18:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:36 : INFO] - 75 
+[2023-03-03 13:18:37 : INFO] - Re_Smush_It_Task with attachment ID : 206, autocreated on : March 03, 2023 01:09:21 
+[2023-03-03 13:18:37 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:37 : INFO] - 75 
+[2023-03-03 13:18:39 : INFO] - Re_Smush_It_Task with attachment ID : 206, autocreated on : March 03, 2023 01:09:21 
+[2023-03-03 13:18:39 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:39 : INFO] - 75 
+[2023-03-03 13:18:41 : INFO] - Re_Smush_It_Task with attachment ID : 206, autocreated on : March 03, 2023 01:09:21 
+[2023-03-03 13:18:41 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:41 : INFO] - 75 
+[2023-03-03 13:18:42 : INFO] - Re_Smush_It_Task with attachment ID : 206, autocreated on : March 03, 2023 01:09:21 
+[2023-03-03 13:18:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:42 : INFO] - 75 
+[2023-03-03 13:18:43 : INFO] - Re_Smush_It_Task with attachment ID : 206, autocreated on : March 03, 2023 01:09:21 
+[2023-03-03 13:18:43 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:43 : INFO] - 75 
+[2023-03-03 13:18:43 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/Camera-360-Owin-plus-xem-video-online-23-scaled.jpg.The file was compressed from 267.90 KB to 204.68 KB saving 23.6 percent using WP-Optimize 
+[2023-03-03 13:18:43 : INFO] - Completed processing task with ID : 121, and type 'smush' 
+[2023-03-03 13:18:43 : INFO] - Processing task with ID : 122, and type 'smush' 
+[2023-03-03 13:18:43 : INFO] - Re_Smush_It_Task with attachment ID : 207, autocreated on : March 03, 2023 01:09:24 
+[2023-03-03 13:18:43 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:43 : INFO] - 75 
+[2023-03-03 13:18:46 : INFO] - Backing up the original image - 2023/03/Camera-360-Owin-plus-xem-video-online-24-scaled-updraft-pre-smush-original.jpg 
+[2023-03-03 13:18:46 : INFO] - Re_Smush_It_Task with attachment ID : 207, autocreated on : March 03, 2023 01:09:24 
+[2023-03-03 13:18:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:46 : INFO] - 75 
+[2023-03-03 13:18:47 : INFO] - Re_Smush_It_Task with attachment ID : 207, autocreated on : March 03, 2023 01:09:24 
+[2023-03-03 13:18:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:47 : INFO] - 75 
+[2023-03-03 13:18:48 : INFO] - Re_Smush_It_Task with attachment ID : 207, autocreated on : March 03, 2023 01:09:24 
+[2023-03-03 13:18:48 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:48 : INFO] - 75 
+[2023-03-03 13:18:49 : INFO] - Re_Smush_It_Task with attachment ID : 207, autocreated on : March 03, 2023 01:09:24 
+[2023-03-03 13:18:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:49 : INFO] - 75 
+[2023-03-03 13:18:50 : INFO] - Re_Smush_It_Task with attachment ID : 207, autocreated on : March 03, 2023 01:09:24 
+[2023-03-03 13:18:50 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:50 : INFO] - 75 
+[2023-03-03 13:18:52 : INFO] - Re_Smush_It_Task with attachment ID : 207, autocreated on : March 03, 2023 01:09:24 
+[2023-03-03 13:18:52 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:52 : INFO] - 75 
+[2023-03-03 13:18:54 : INFO] - Re_Smush_It_Task with attachment ID : 207, autocreated on : March 03, 2023 01:09:24 
+[2023-03-03 13:18:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:54 : INFO] - 75 
+[2023-03-03 13:18:55 : INFO] - Re_Smush_It_Task with attachment ID : 207, autocreated on : March 03, 2023 01:09:24 
+[2023-03-03 13:18:55 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:55 : INFO] - 75 
+[2023-03-03 13:18:56 : INFO] - Re_Smush_It_Task with attachment ID : 207, autocreated on : March 03, 2023 01:09:24 
+[2023-03-03 13:18:56 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:56 : INFO] - 75 
+[2023-03-03 13:18:57 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/Camera-360-Owin-plus-xem-video-online-24-scaled.jpg.The file was compressed from 292.47 KB to 229.13 KB saving 21.66 percent using WP-Optimize 
+[2023-03-03 13:18:57 : INFO] - Completed processing task with ID : 122, and type 'smush' 
+[2023-03-03 13:18:57 : INFO] - Processing task with ID : 123, and type 'smush' 
+[2023-03-03 13:18:57 : INFO] - Re_Smush_It_Task with attachment ID : 208, autocreated on : March 03, 2023 01:09:27 
+[2023-03-03 13:18:57 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:18:57 : INFO] - 75 
+[2023-03-03 13:19:00 : INFO] - Backing up the original image - 2023/03/Camera-360-Owin-plus-xem-video-online-25-updraft-pre-smush-original.jpg 
+[2023-03-03 13:19:00 : INFO] - Re_Smush_It_Task with attachment ID : 208, autocreated on : March 03, 2023 01:09:27 
+[2023-03-03 13:19:00 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:19:00 : INFO] - 75 
+[2023-03-03 13:19:00 : INFO] - Re_Smush_It_Task with attachment ID : 208, autocreated on : March 03, 2023 01:09:27 
+[2023-03-03 13:19:00 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:19:00 : INFO] - 75 
+[2023-03-03 13:19:02 : INFO] - Re_Smush_It_Task with attachment ID : 208, autocreated on : March 03, 2023 01:09:27 
+[2023-03-03 13:19:02 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:19:02 : INFO] - 75 
+[2023-03-03 13:19:02 : INFO] - Re_Smush_It_Task with attachment ID : 208, autocreated on : March 03, 2023 01:09:27 
+[2023-03-03 13:19:02 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:19:02 : INFO] - 75 
+[2023-03-03 13:19:03 : INFO] - Re_Smush_It_Task with attachment ID : 208, autocreated on : March 03, 2023 01:09:27 
+[2023-03-03 13:19:03 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:19:03 : INFO] - 75 
+[2023-03-03 13:19:05 : INFO] - Re_Smush_It_Task with attachment ID : 208, autocreated on : March 03, 2023 01:09:27 
+[2023-03-03 13:19:05 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:19:05 : INFO] - 75 
+[2023-03-03 13:19:07 : INFO] - Re_Smush_It_Task with attachment ID : 208, autocreated on : March 03, 2023 01:09:27 
+[2023-03-03 13:19:07 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:19:07 : INFO] - 75 
+[2023-03-03 13:19:08 : INFO] - Re_Smush_It_Task with attachment ID : 208, autocreated on : March 03, 2023 01:09:27 
+[2023-03-03 13:19:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:19:08 : INFO] - 75 
+[2023-03-03 13:19:09 : INFO] - Re_Smush_It_Task with attachment ID : 208, autocreated on : March 03, 2023 01:09:27 
+[2023-03-03 13:19:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:19:09 : INFO] - 75 
+[2023-03-03 13:19:09 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/Camera-360-Owin-plus-xem-video-online-25.jpg.The file was compressed from 381.32 KB to 127.47 KB saving 66.57 percent using WP-Optimize 
+[2023-03-03 13:19:09 : INFO] - Completed processing task with ID : 123, and type 'smush' 
+[2023-03-03 13:19:09 : INFO] - Processing task with ID : 124, and type 'smush' 
+[2023-03-03 13:19:09 : INFO] - Re_Smush_It_Task with attachment ID : 209, autocreated on : March 03, 2023 01:09:28 
+[2023-03-03 13:19:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:19:09 : INFO] - 75 
+[2023-03-03 13:19:12 : INFO] - Backing up the original image - 2023/03/Camera-360-Owin-plus-xem-video-online-26-scaled-updraft-pre-smush-original.jpg 
+[2023-03-03 13:19:12 : INFO] - Re_Smush_It_Task with attachment ID : 209, autocreated on : March 03, 2023 01:09:28 
+[2023-03-03 13:19:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:19:12 : INFO] - 75 
+[2023-03-03 13:19:13 : INFO] - Re_Smush_It_Task with attachment ID : 209, autocreated on : March 03, 2023 01:09:28 
+[2023-03-03 13:19:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:19:13 : INFO] - 75 
+[2023-03-03 13:19:15 : INFO] - Re_Smush_It_Task with attachment ID : 209, autocreated on : March 03, 2023 01:09:28 
+[2023-03-03 13:19:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:19:15 : INFO] - 75 
+[2023-03-03 13:19:15 : INFO] - Re_Smush_It_Task with attachment ID : 209, autocreated on : March 03, 2023 01:09:28 
+[2023-03-03 13:19:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:19:15 : INFO] - 75 
+[2023-03-03 13:19:17 : INFO] - Re_Smush_It_Task with attachment ID : 209, autocreated on : March 03, 2023 01:09:28 
+[2023-03-03 13:19:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:19:17 : INFO] - 75 
+[2023-03-03 13:19:19 : INFO] - Re_Smush_It_Task with attachment ID : 209, autocreated on : March 03, 2023 01:09:28 
+[2023-03-03 13:19:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:19:19 : INFO] - 75 
+[2023-03-03 13:19:21 : INFO] - Re_Smush_It_Task with attachment ID : 209, autocreated on : March 03, 2023 01:09:28 
+[2023-03-03 13:19:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:19:21 : INFO] - 75 
+[2023-03-03 13:19:22 : INFO] - Re_Smush_It_Task with attachment ID : 209, autocreated on : March 03, 2023 01:09:28 
+[2023-03-03 13:19:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:19:22 : INFO] - 75 
+[2023-03-03 13:19:24 : INFO] - Re_Smush_It_Task with attachment ID : 209, autocreated on : March 03, 2023 01:09:28 
+[2023-03-03 13:19:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:19:24 : INFO] - 75 
+[2023-03-03 13:19:24 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/Camera-360-Owin-plus-xem-video-online-26-scaled.jpg.The file was compressed from 375.66 KB to 326.53 KB saving 13.08 percent using WP-Optimize 
+[2023-03-03 13:19:24 : INFO] - Completed processing task with ID : 124, and type 'smush' 
+[2023-03-03 13:19:24 : INFO] - Processing task with ID : 125, and type 'smush' 
+[2023-03-03 13:19:24 : INFO] - Re_Smush_It_Task with attachment ID : 210, autocreated on : March 03, 2023 01:09:32 
+[2023-03-03 13:19:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:19:24 : INFO] - 75 
+[2023-03-03 13:19:27 : INFO] - Backing up the original image - 2023/03/Camera-360-Owin-plus-xem-video-online-27-scaled-updraft-pre-smush-original.jpg 
+[2023-03-03 13:19:27 : INFO] - Re_Smush_It_Task with attachment ID : 210, autocreated on : March 03, 2023 01:09:32 
+[2023-03-03 13:19:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:19:27 : INFO] - 75 
+[2023-03-03 13:19:28 : INFO] - Re_Smush_It_Task with attachment ID : 210, autocreated on : March 03, 2023 01:09:32 
+[2023-03-03 13:19:28 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:19:28 : INFO] - 75 
+[2023-03-03 13:19:29 : INFO] - Re_Smush_It_Task with attachment ID : 210, autocreated on : March 03, 2023 01:09:32 
+[2023-03-03 13:19:29 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:19:29 : INFO] - 75 
+[2023-03-03 13:19:30 : INFO] - Re_Smush_It_Task with attachment ID : 210, autocreated on : March 03, 2023 01:09:32 
+[2023-03-03 13:19:30 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:19:30 : INFO] - 75 
+[2023-03-03 13:19:31 : INFO] - Re_Smush_It_Task with attachment ID : 210, autocreated on : March 03, 2023 01:09:32 
+[2023-03-03 13:19:31 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:19:31 : INFO] - 75 
+[2023-03-03 13:19:32 : INFO] - Re_Smush_It_Task with attachment ID : 210, autocreated on : March 03, 2023 01:09:32 
+[2023-03-03 13:19:32 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:19:32 : INFO] - 75 
+[2023-03-03 13:19:34 : INFO] - Re_Smush_It_Task with attachment ID : 210, autocreated on : March 03, 2023 01:09:32 
+[2023-03-03 13:19:34 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:19:34 : INFO] - 75 
+[2023-03-03 13:19:35 : INFO] - Re_Smush_It_Task with attachment ID : 210, autocreated on : March 03, 2023 01:09:32 
+[2023-03-03 13:19:35 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:19:35 : INFO] - 75 
+[2023-03-03 13:19:36 : INFO] - Re_Smush_It_Task with attachment ID : 210, autocreated on : March 03, 2023 01:09:32 
+[2023-03-03 13:19:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 13:19:36 : INFO] - 75 
+[2023-03-03 13:19:37 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/Camera-360-Owin-plus-xem-video-online-27-scaled.jpg.The file was compressed from 257.97 KB to 207.97 KB saving 19.38 percent using WP-Optimize 
+[2023-03-03 13:19:37 : INFO] - Completed processing task with ID : 125, and type 'smush' 
+[2023-03-03 13:19:37 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-03-03 13:19:37 : INFO] - Successfully processed the queue (smush). 27 tasks were processed out of 27. 
+[2023-03-03 13:19:37 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-03-03 13:19:37 : INFO] - Cleaning up tasks of type (smush). A total of 27 tasks will be deleted. 
+[2023-03-03 13:23:53 : INFO] - 
+ 
+[2023-03-03 13:23:53 : INFO] - Header for logs at time:  Fri, 03 Mar 2023 13:23:53 +0000 on https://dev.vietnamgarage.vn 
+[2023-03-03 13:23:53 : INFO] - WP: 6.1.1 
+[2023-03-03 13:23:53 : INFO] - PHP: 7.4.32 (litespeed, Linux vmi1022598.contaboserver.net 5.4.0-105-generic #119-Ubuntu SMP Mon Mar 7 18:49:24 UTC 2022 x86_64) 
+[2023-03-03 13:23:53 : INFO] - MySQL: 5.5.5 
+[2023-03-03 13:23:53 : INFO] - WPLANG: vi 
+[2023-03-03 13:23:53 : INFO] - Server: LiteSpeed 
+[2023-03-03 13:23:53 : INFO] - Outbound connections: N 
+[2023-03-03 13:23:53 : INFO] - safe_mode: 0 
+[2023-03-03 13:23:53 : INFO] - max_execution_time: 30 
+[2023-03-03 13:23:53 : INFO] - memory_limit: 8000M (used: 20.2M | 2M) 
+[2023-03-03 13:23:53 : INFO] - multisite: N 
+[2023-03-03 13:23:53 : INFO] - openssl: OpenSSL 1.1.1f  31 Mar 2020 
+[2023-03-03 13:23:53 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2023-03-04 03:51:22 : INFO] - Re_Smush_It_Task with attachment ID : 237, autocreated on : March 04, 2023 03:51:22 
+[2023-03-04 03:51:23 : INFO] - Re_Smush_It_Task with attachment ID : 238, autocreated on : March 04, 2023 03:51:23 
+[2023-03-04 03:51:23 : INFO] - Re_Smush_It_Task with attachment ID : 239, autocreated on : March 04, 2023 03:51:23 
+[2023-03-04 03:51:24 : INFO] - Re_Smush_It_Task with attachment ID : 240, autocreated on : March 04, 2023 03:51:24 
+[2023-03-04 03:51:25 : INFO] - Re_Smush_It_Task with attachment ID : 241, autocreated on : March 04, 2023 03:51:25 
+[2023-03-04 03:51:27 : INFO] - Re_Smush_It_Task with attachment ID : 242, autocreated on : March 04, 2023 03:51:27 
+[2023-03-04 03:56:36 : INFO] - 
+ 
+[2023-03-04 03:56:36 : INFO] - Header for logs at time:  Sat, 04 Mar 2023 03:56:36 +0000 on https://dev.vietnamgarage.vn 
+[2023-03-04 03:56:36 : INFO] - WP: 6.1.1 
+[2023-03-04 03:56:36 : INFO] - PHP: 7.4.32 (litespeed, Linux vmi1022598.contaboserver.net 5.4.0-105-generic #119-Ubuntu SMP Mon Mar 7 18:49:24 UTC 2022 x86_64) 
+[2023-03-04 03:56:36 : INFO] - MySQL: 5.5.5 
+[2023-03-04 03:56:36 : INFO] - WPLANG: vi 
+[2023-03-04 03:56:36 : INFO] - Server: LiteSpeed 
+[2023-03-04 03:56:36 : INFO] - Outbound connections: N 
+[2023-03-04 03:56:36 : INFO] - safe_mode: 0 
+[2023-03-04 03:56:36 : INFO] - max_execution_time: 30 
+[2023-03-04 03:56:36 : INFO] - memory_limit: 8000M (used: 19.2M | 2M) 
+[2023-03-04 03:56:36 : INFO] - multisite: N 
+[2023-03-04 03:56:36 : INFO] - openssl: OpenSSL 1.1.1f  31 Mar 2020 
+[2023-03-04 03:56:36 : INFO] - A total of 6 tasks of type smush found and will be processed in this iteration 
+[2023-03-04 03:56:36 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-03-04 03:56:36 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-03-04 03:56:36 : INFO] - Processing task with ID : 126, and type 'smush' 
+[2023-03-04 03:56:36 : INFO] - Re_Smush_It_Task with attachment ID : 237, autocreated on : March 04, 2023 03:51:22 
+[2023-03-04 03:56:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:56:36 : INFO] - 75 
+[2023-03-04 03:56:39 : INFO] - Backing up the original image - 2023/03/2023-03-04_104624-updraft-pre-smush-original.jpg 
+[2023-03-04 03:56:39 : INFO] - Re_Smush_It_Task with attachment ID : 237, autocreated on : March 04, 2023 03:51:22 
+[2023-03-04 03:56:39 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:56:39 : INFO] - 75 
+[2023-03-04 03:56:39 : INFO] - Re_Smush_It_Task with attachment ID : 237, autocreated on : March 04, 2023 03:51:22 
+[2023-03-04 03:56:39 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:56:39 : INFO] - 75 
+[2023-03-04 03:56:41 : INFO] - Re_Smush_It_Task with attachment ID : 237, autocreated on : March 04, 2023 03:51:22 
+[2023-03-04 03:56:41 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:56:41 : INFO] - 75 
+[2023-03-04 03:56:41 : INFO] - Re_Smush_It_Task with attachment ID : 237, autocreated on : March 04, 2023 03:51:22 
+[2023-03-04 03:56:41 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:56:41 : INFO] - 75 
+[2023-03-04 03:56:43 : INFO] - Re_Smush_It_Task with attachment ID : 237, autocreated on : March 04, 2023 03:51:22 
+[2023-03-04 03:56:43 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:56:43 : INFO] - 75 
+[2023-03-04 03:56:43 : INFO] - Re_Smush_It_Task with attachment ID : 237, autocreated on : March 04, 2023 03:51:22 
+[2023-03-04 03:56:43 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:56:43 : INFO] - 75 
+[2023-03-04 03:56:44 : INFO] - Re_Smush_It_Task with attachment ID : 237, autocreated on : March 04, 2023 03:51:22 
+[2023-03-04 03:56:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:56:44 : INFO] - 75 
+[2023-03-04 03:56:45 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/2023-03-04_104624.jpg.The file was compressed from 474.85 KB to 103.55 KB saving 78.19 percent using WP-Optimize 
+[2023-03-04 03:56:45 : INFO] - Completed processing task with ID : 126, and type 'smush' 
+[2023-03-04 03:56:45 : INFO] - Processing task with ID : 127, and type 'smush' 
+[2023-03-04 03:56:45 : INFO] - Re_Smush_It_Task with attachment ID : 238, autocreated on : March 04, 2023 03:51:23 
+[2023-03-04 03:56:45 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:56:45 : INFO] - 75 
+[2023-03-04 03:56:47 : INFO] - Backing up the original image - 2023/03/2023-03-04_104801-updraft-pre-smush-original.jpg 
+[2023-03-04 03:56:47 : INFO] - Re_Smush_It_Task with attachment ID : 238, autocreated on : March 04, 2023 03:51:23 
+[2023-03-04 03:56:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:56:47 : INFO] - 75 
+[2023-03-04 03:56:47 : INFO] - Re_Smush_It_Task with attachment ID : 238, autocreated on : March 04, 2023 03:51:23 
+[2023-03-04 03:56:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:56:47 : INFO] - 75 
+[2023-03-04 03:56:48 : INFO] - Re_Smush_It_Task with attachment ID : 238, autocreated on : March 04, 2023 03:51:23 
+[2023-03-04 03:56:48 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:56:48 : INFO] - 75 
+[2023-03-04 03:56:49 : INFO] - Re_Smush_It_Task with attachment ID : 238, autocreated on : March 04, 2023 03:51:23 
+[2023-03-04 03:56:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:56:49 : INFO] - 75 
+[2023-03-04 03:56:50 : INFO] - Re_Smush_It_Task with attachment ID : 238, autocreated on : March 04, 2023 03:51:23 
+[2023-03-04 03:56:50 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:56:50 : INFO] - 75 
+[2023-03-04 03:56:51 : INFO] - Re_Smush_It_Task with attachment ID : 238, autocreated on : March 04, 2023 03:51:23 
+[2023-03-04 03:56:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:56:51 : INFO] - 75 
+[2023-03-04 03:56:52 : INFO] - Re_Smush_It_Task with attachment ID : 238, autocreated on : March 04, 2023 03:51:23 
+[2023-03-04 03:56:52 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:56:52 : INFO] - 75 
+[2023-03-04 03:56:52 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/2023-03-04_104801.jpg.The file was compressed from 220.62 KB to 59.69 KB saving 72.94 percent using WP-Optimize 
+[2023-03-04 03:56:52 : INFO] - Completed processing task with ID : 127, and type 'smush' 
+[2023-03-04 03:56:52 : INFO] - Processing task with ID : 128, and type 'smush' 
+[2023-03-04 03:56:52 : INFO] - Re_Smush_It_Task with attachment ID : 239, autocreated on : March 04, 2023 03:51:23 
+[2023-03-04 03:56:52 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:56:52 : INFO] - 75 
+[2023-03-04 03:56:54 : INFO] - Backing up the original image - 2023/03/2023-03-04_104833-updraft-pre-smush-original.jpg 
+[2023-03-04 03:56:54 : INFO] - Re_Smush_It_Task with attachment ID : 239, autocreated on : March 04, 2023 03:51:23 
+[2023-03-04 03:56:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:56:54 : INFO] - 75 
+[2023-03-04 03:56:55 : INFO] - Re_Smush_It_Task with attachment ID : 239, autocreated on : March 04, 2023 03:51:23 
+[2023-03-04 03:56:55 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:56:55 : INFO] - 75 
+[2023-03-04 03:56:56 : INFO] - Re_Smush_It_Task with attachment ID : 239, autocreated on : March 04, 2023 03:51:23 
+[2023-03-04 03:56:56 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:56:56 : INFO] - 75 
+[2023-03-04 03:56:57 : INFO] - Re_Smush_It_Task with attachment ID : 239, autocreated on : March 04, 2023 03:51:23 
+[2023-03-04 03:56:57 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:56:57 : INFO] - 75 
+[2023-03-04 03:56:58 : INFO] - Re_Smush_It_Task with attachment ID : 239, autocreated on : March 04, 2023 03:51:23 
+[2023-03-04 03:56:58 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:56:58 : INFO] - 75 
+[2023-03-04 03:56:58 : INFO] - Re_Smush_It_Task with attachment ID : 239, autocreated on : March 04, 2023 03:51:23 
+[2023-03-04 03:56:58 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:56:58 : INFO] - 75 
+[2023-03-04 03:56:59 : INFO] - Re_Smush_It_Task with attachment ID : 239, autocreated on : March 04, 2023 03:51:23 
+[2023-03-04 03:56:59 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:56:59 : INFO] - 75 
+[2023-03-04 03:57:00 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/2023-03-04_104833.jpg.The file was compressed from 259.42 KB to 65.65 KB saving 74.69 percent using WP-Optimize 
+[2023-03-04 03:57:00 : INFO] - Completed processing task with ID : 128, and type 'smush' 
+[2023-03-04 03:57:00 : INFO] - Processing task with ID : 129, and type 'smush' 
+[2023-03-04 03:57:00 : INFO] - Re_Smush_It_Task with attachment ID : 240, autocreated on : March 04, 2023 03:51:24 
+[2023-03-04 03:57:00 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:57:00 : INFO] - 75 
+[2023-03-04 03:57:02 : INFO] - Backing up the original image - 2023/03/HELIX-DSP-ULTRA_input-sensitivity_1280x1280px_22-04-200QIo5QWoUka5e-updraft-pre-smush-original.jpg 
+[2023-03-04 03:57:02 : INFO] - Re_Smush_It_Task with attachment ID : 240, autocreated on : March 04, 2023 03:51:24 
+[2023-03-04 03:57:02 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:57:02 : INFO] - 75 
+[2023-03-04 03:57:03 : INFO] - Re_Smush_It_Task with attachment ID : 240, autocreated on : March 04, 2023 03:51:24 
+[2023-03-04 03:57:03 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:57:03 : INFO] - 75 
+[2023-03-04 03:57:05 : INFO] - Re_Smush_It_Task with attachment ID : 240, autocreated on : March 04, 2023 03:51:24 
+[2023-03-04 03:57:05 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:57:05 : INFO] - 75 
+[2023-03-04 03:57:06 : INFO] - Re_Smush_It_Task with attachment ID : 240, autocreated on : March 04, 2023 03:51:24 
+[2023-03-04 03:57:06 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:57:06 : INFO] - 75 
+[2023-03-04 03:57:07 : INFO] - Re_Smush_It_Task with attachment ID : 240, autocreated on : March 04, 2023 03:51:24 
+[2023-03-04 03:57:07 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:57:07 : INFO] - 75 
+[2023-03-04 03:57:09 : INFO] - Re_Smush_It_Task with attachment ID : 240, autocreated on : March 04, 2023 03:51:24 
+[2023-03-04 03:57:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:57:09 : INFO] - 75 
+[2023-03-04 03:57:09 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/HELIX-DSP-ULTRA_input-sensitivity_1280x1280px_22-04-200QIo5QWoUka5e.jpg.The file was compressed from 317.79 KB to 213.67 KB saving 32.76 percent using WP-Optimize 
+[2023-03-04 03:57:09 : INFO] - Completed processing task with ID : 129, and type 'smush' 
+[2023-03-04 03:57:09 : INFO] - Processing task with ID : 130, and type 'smush' 
+[2023-03-04 03:57:09 : INFO] - Re_Smush_It_Task with attachment ID : 241, autocreated on : March 04, 2023 03:51:25 
+[2023-03-04 03:57:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:57:09 : INFO] - 75 
+[2023-03-04 03:57:12 : INFO] - Backing up the original image - 2023/03/HELIX-DSP-ULTRA_pers_Outputs_mit-EISA-Logo_1280x894px_16-04-20x76FjUHaDOiGT-updraft-pre-smush-original.jpg 
+[2023-03-04 03:57:12 : INFO] - Re_Smush_It_Task with attachment ID : 241, autocreated on : March 04, 2023 03:51:25 
+[2023-03-04 03:57:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:57:12 : INFO] - 75 
+[2023-03-04 03:57:13 : INFO] - Re_Smush_It_Task with attachment ID : 241, autocreated on : March 04, 2023 03:51:25 
+[2023-03-04 03:57:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:57:13 : INFO] - 75 
+[2023-03-04 03:57:14 : INFO] - Re_Smush_It_Task with attachment ID : 241, autocreated on : March 04, 2023 03:51:25 
+[2023-03-04 03:57:14 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:57:14 : INFO] - 75 
+[2023-03-04 03:57:15 : INFO] - Re_Smush_It_Task with attachment ID : 241, autocreated on : March 04, 2023 03:51:25 
+[2023-03-04 03:57:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:57:15 : INFO] - 75 
+[2023-03-04 03:57:16 : INFO] - Re_Smush_It_Task with attachment ID : 241, autocreated on : March 04, 2023 03:51:25 
+[2023-03-04 03:57:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:57:16 : INFO] - 75 
+[2023-03-04 03:57:17 : INFO] - Re_Smush_It_Task with attachment ID : 241, autocreated on : March 04, 2023 03:51:25 
+[2023-03-04 03:57:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:57:17 : INFO] - 75 
+[2023-03-04 03:57:18 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/HELIX-DSP-ULTRA_pers_Outputs_mit-EISA-Logo_1280x894px_16-04-20x76FjUHaDOiGT.jpg.The file was compressed from 436.38 KB to 123.33 KB saving 71.74 percent using WP-Optimize 
+[2023-03-04 03:57:18 : INFO] - Completed processing task with ID : 130, and type 'smush' 
+[2023-03-04 03:57:18 : INFO] - Processing task with ID : 131, and type 'smush' 
+[2023-03-04 03:57:18 : INFO] - Re_Smush_It_Task with attachment ID : 242, autocreated on : March 04, 2023 03:51:27 
+[2023-03-04 03:57:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:57:18 : INFO] - 75 
+[2023-03-04 03:57:21 : INFO] - Backing up the original image - 2023/03/HELIX-DSP-ULTRA_TwinDSP_1280x1280px_22-04-20V6L6V0LLRF0HH-updraft-pre-smush-original.jpg 
+[2023-03-04 03:57:21 : INFO] - Re_Smush_It_Task with attachment ID : 242, autocreated on : March 04, 2023 03:51:27 
+[2023-03-04 03:57:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:57:21 : INFO] - 75 
+[2023-03-04 03:57:22 : INFO] - Re_Smush_It_Task with attachment ID : 242, autocreated on : March 04, 2023 03:51:27 
+[2023-03-04 03:57:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:57:22 : INFO] - 75 
+[2023-03-04 03:57:23 : INFO] - Re_Smush_It_Task with attachment ID : 242, autocreated on : March 04, 2023 03:51:27 
+[2023-03-04 03:57:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:57:23 : INFO] - 75 
+[2023-03-04 03:57:24 : INFO] - Re_Smush_It_Task with attachment ID : 242, autocreated on : March 04, 2023 03:51:27 
+[2023-03-04 03:57:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:57:24 : INFO] - 75 
+[2023-03-04 03:57:25 : INFO] - Re_Smush_It_Task with attachment ID : 242, autocreated on : March 04, 2023 03:51:27 
+[2023-03-04 03:57:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:57:25 : INFO] - 75 
+[2023-03-04 03:57:27 : INFO] - Re_Smush_It_Task with attachment ID : 242, autocreated on : March 04, 2023 03:51:27 
+[2023-03-04 03:57:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 03:57:27 : INFO] - 75 
+[2023-03-04 03:57:27 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/HELIX-DSP-ULTRA_TwinDSP_1280x1280px_22-04-20V6L6V0LLRF0HH.jpg.The file was compressed from 498.37 KB to 165.13 KB saving 66.87 percent using WP-Optimize 
+[2023-03-04 03:57:27 : INFO] - Completed processing task with ID : 131, and type 'smush' 
+[2023-03-04 03:57:27 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-03-04 03:57:27 : INFO] - Successfully processed the queue (smush). 6 tasks were processed out of 6. 
+[2023-03-04 03:57:27 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-03-04 03:57:27 : INFO] - Cleaning up tasks of type (smush). A total of 6 tasks will be deleted. 
+[2023-03-04 04:04:21 : INFO] - Re_Smush_It_Task with attachment ID : 244, autocreated on : March 04, 2023 04:04:21 
+[2023-03-04 04:04:22 : INFO] - Re_Smush_It_Task with attachment ID : 245, autocreated on : March 04, 2023 04:04:22 
+[2023-03-04 04:04:23 : INFO] - Re_Smush_It_Task with attachment ID : 246, autocreated on : March 04, 2023 04:04:23 
+[2023-03-04 04:04:24 : INFO] - Re_Smush_It_Task with attachment ID : 247, autocreated on : March 04, 2023 04:04:24 
+[2023-03-04 04:04:40 : INFO] - Re_Smush_It_Task with attachment ID : 248, autocreated on : March 04, 2023 04:04:40 
+[2023-03-04 04:06:41 : INFO] - 
+ 
+[2023-03-04 04:06:41 : INFO] - Header for logs at time:  Sat, 04 Mar 2023 04:06:41 +0000 on https://dev.vietnamgarage.vn 
+[2023-03-04 04:06:41 : INFO] - WP: 6.1.1 
+[2023-03-04 04:06:41 : INFO] - PHP: 7.4.32 (litespeed, Linux vmi1022598.contaboserver.net 5.4.0-105-generic #119-Ubuntu SMP Mon Mar 7 18:49:24 UTC 2022 x86_64) 
+[2023-03-04 04:06:41 : INFO] - MySQL: 5.5.5 
+[2023-03-04 04:06:41 : INFO] - WPLANG: vi 
+[2023-03-04 04:06:41 : INFO] - Server: LiteSpeed 
+[2023-03-04 04:06:41 : INFO] - Outbound connections: N 
+[2023-03-04 04:06:41 : INFO] - safe_mode: 0 
+[2023-03-04 04:06:41 : INFO] - max_execution_time: 30 
+[2023-03-04 04:06:41 : INFO] - memory_limit: 8000M (used: 19.2M | 2M) 
+[2023-03-04 04:06:41 : INFO] - multisite: N 
+[2023-03-04 04:06:41 : INFO] - openssl: OpenSSL 1.1.1f  31 Mar 2020 
+[2023-03-04 04:06:41 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2023-03-04 04:06:41 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-03-04 04:06:41 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-03-04 04:06:41 : INFO] - Processing task with ID : 132, and type 'smush' 
+[2023-03-04 04:06:41 : INFO] - Re_Smush_It_Task with attachment ID : 244, autocreated on : March 04, 2023 04:04:21 
+[2023-03-04 04:06:41 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:06:41 : INFO] - 75 
+[2023-03-04 04:06:43 : INFO] - Backing up the original image - 2023/03/HELIX_P-SIX_DSP-ULTIMATE_1280x1280px_29-03-2022-updraft-pre-smush-original.jpg 
+[2023-03-04 04:06:43 : INFO] - Re_Smush_It_Task with attachment ID : 244, autocreated on : March 04, 2023 04:04:21 
+[2023-03-04 04:06:43 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:06:43 : INFO] - 75 
+[2023-03-04 04:06:44 : INFO] - Re_Smush_It_Task with attachment ID : 244, autocreated on : March 04, 2023 04:04:21 
+[2023-03-04 04:06:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:06:44 : INFO] - 75 
+[2023-03-04 04:06:45 : INFO] - Re_Smush_It_Task with attachment ID : 244, autocreated on : March 04, 2023 04:04:21 
+[2023-03-04 04:06:45 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:06:45 : INFO] - 75 
+[2023-03-04 04:06:46 : INFO] - Re_Smush_It_Task with attachment ID : 244, autocreated on : March 04, 2023 04:04:21 
+[2023-03-04 04:06:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:06:46 : INFO] - 75 
+[2023-03-04 04:06:47 : INFO] - Re_Smush_It_Task with attachment ID : 244, autocreated on : March 04, 2023 04:04:21 
+[2023-03-04 04:06:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:06:47 : INFO] - 75 
+[2023-03-04 04:06:48 : INFO] - Re_Smush_It_Task with attachment ID : 244, autocreated on : March 04, 2023 04:04:21 
+[2023-03-04 04:06:48 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:06:48 : INFO] - 75 
+[2023-03-04 04:06:49 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/HELIX_P-SIX_DSP-ULTIMATE_1280x1280px_29-03-2022.jpg.The file was compressed from 401.92 KB to 175.03 KB saving 56.45 percent using WP-Optimize 
+[2023-03-04 04:06:49 : INFO] - Completed processing task with ID : 132, and type 'smush' 
+[2023-03-04 04:06:49 : INFO] - Processing task with ID : 133, and type 'smush' 
+[2023-03-04 04:06:49 : INFO] - Re_Smush_It_Task with attachment ID : 245, autocreated on : March 04, 2023 04:04:22 
+[2023-03-04 04:06:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:06:49 : INFO] - 75 
+[2023-03-04 04:06:51 : INFO] - Backing up the original image - 2023/03/HELIX_P-SIX-DSP-ULTIMATE_Front-Inputs_1280x1280px_25-03-2022-updraft-pre-smush-original.jpg 
+[2023-03-04 04:06:51 : INFO] - Re_Smush_It_Task with attachment ID : 245, autocreated on : March 04, 2023 04:04:22 
+[2023-03-04 04:06:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:06:51 : INFO] - 75 
+[2023-03-04 04:06:52 : INFO] - Re_Smush_It_Task with attachment ID : 245, autocreated on : March 04, 2023 04:04:22 
+[2023-03-04 04:06:52 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:06:52 : INFO] - 75 
+[2023-03-04 04:06:53 : INFO] - Re_Smush_It_Task with attachment ID : 245, autocreated on : March 04, 2023 04:04:22 
+[2023-03-04 04:06:53 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:06:53 : INFO] - 75 
+[2023-03-04 04:06:53 : INFO] - Re_Smush_It_Task with attachment ID : 245, autocreated on : March 04, 2023 04:04:22 
+[2023-03-04 04:06:53 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:06:53 : INFO] - 75 
+[2023-03-04 04:06:54 : INFO] - Re_Smush_It_Task with attachment ID : 245, autocreated on : March 04, 2023 04:04:22 
+[2023-03-04 04:06:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:06:54 : INFO] - 75 
+[2023-03-04 04:06:55 : INFO] - Re_Smush_It_Task with attachment ID : 245, autocreated on : March 04, 2023 04:04:22 
+[2023-03-04 04:06:55 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:06:55 : INFO] - 75 
+[2023-03-04 04:06:56 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/HELIX_P-SIX-DSP-ULTIMATE_Front-Inputs_1280x1280px_25-03-2022.jpg.The file was compressed from 266.31 KB to 64.86 KB saving 75.65 percent using WP-Optimize 
+[2023-03-04 04:06:56 : INFO] - Completed processing task with ID : 133, and type 'smush' 
+[2023-03-04 04:06:56 : INFO] - Processing task with ID : 134, and type 'smush' 
+[2023-03-04 04:06:56 : INFO] - Re_Smush_It_Task with attachment ID : 246, autocreated on : March 04, 2023 04:04:23 
+[2023-03-04 04:06:56 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:06:56 : INFO] - 75 
+[2023-03-04 04:06:59 : INFO] - Backing up the original image - 2023/03/HELIX_P-SIX-DSP-ULTIMATE_Pers_EISA_1280x1280px_12-08-2022-updraft-pre-smush-original.jpg 
+[2023-03-04 04:06:59 : INFO] - Re_Smush_It_Task with attachment ID : 246, autocreated on : March 04, 2023 04:04:23 
+[2023-03-04 04:06:59 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:06:59 : INFO] - 75 
+[2023-03-04 04:06:59 : INFO] - Re_Smush_It_Task with attachment ID : 246, autocreated on : March 04, 2023 04:04:23 
+[2023-03-04 04:06:59 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:06:59 : INFO] - 75 
+[2023-03-04 04:07:01 : INFO] - Re_Smush_It_Task with attachment ID : 246, autocreated on : March 04, 2023 04:04:23 
+[2023-03-04 04:07:01 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:07:01 : INFO] - 75 
+[2023-03-04 04:07:02 : INFO] - Re_Smush_It_Task with attachment ID : 246, autocreated on : March 04, 2023 04:04:23 
+[2023-03-04 04:07:02 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:07:02 : INFO] - 75 
+[2023-03-04 04:07:03 : INFO] - Re_Smush_It_Task with attachment ID : 246, autocreated on : March 04, 2023 04:04:23 
+[2023-03-04 04:07:03 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:07:03 : INFO] - 75 
+[2023-03-04 04:07:04 : INFO] - Re_Smush_It_Task with attachment ID : 246, autocreated on : March 04, 2023 04:04:23 
+[2023-03-04 04:07:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:07:04 : INFO] - 75 
+[2023-03-04 04:07:05 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/HELIX_P-SIX-DSP-ULTIMATE_Pers_EISA_1280x1280px_12-08-2022.jpg.The file was compressed from 492.98 KB to 122.02 KB saving 75.25 percent using WP-Optimize 
+[2023-03-04 04:07:05 : INFO] - Completed processing task with ID : 134, and type 'smush' 
+[2023-03-04 04:07:05 : INFO] - Processing task with ID : 135, and type 'smush' 
+[2023-03-04 04:07:05 : INFO] - Re_Smush_It_Task with attachment ID : 247, autocreated on : March 04, 2023 04:04:24 
+[2023-03-04 04:07:05 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:07:05 : INFO] - 75 
+[2023-03-04 04:07:07 : INFO] - Backing up the original image - 2023/03/HELIX_S-SIX-DSP-ULTIMATE_Font-Outputs_1280x1280px_25-03-2022-updraft-pre-smush-original.jpg 
+[2023-03-04 04:07:07 : INFO] - Re_Smush_It_Task with attachment ID : 247, autocreated on : March 04, 2023 04:04:24 
+[2023-03-04 04:07:07 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:07:07 : INFO] - 75 
+[2023-03-04 04:07:07 : INFO] - Re_Smush_It_Task with attachment ID : 247, autocreated on : March 04, 2023 04:04:24 
+[2023-03-04 04:07:07 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:07:07 : INFO] - 75 
+[2023-03-04 04:07:09 : INFO] - Re_Smush_It_Task with attachment ID : 247, autocreated on : March 04, 2023 04:04:24 
+[2023-03-04 04:07:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:07:09 : INFO] - 75 
+[2023-03-04 04:07:09 : INFO] - Re_Smush_It_Task with attachment ID : 247, autocreated on : March 04, 2023 04:04:24 
+[2023-03-04 04:07:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:07:09 : INFO] - 75 
+[2023-03-04 04:07:10 : INFO] - Re_Smush_It_Task with attachment ID : 247, autocreated on : March 04, 2023 04:04:24 
+[2023-03-04 04:07:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:07:10 : INFO] - 75 
+[2023-03-04 04:07:11 : INFO] - Re_Smush_It_Task with attachment ID : 247, autocreated on : March 04, 2023 04:04:24 
+[2023-03-04 04:07:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:07:11 : INFO] - 75 
+[2023-03-04 04:07:12 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/HELIX_S-SIX-DSP-ULTIMATE_Font-Outputs_1280x1280px_25-03-2022.jpg.The file was compressed from 271.63 KB to 70.47 KB saving 74.06 percent using WP-Optimize 
+[2023-03-04 04:07:12 : INFO] - Completed processing task with ID : 135, and type 'smush' 
+[2023-03-04 04:07:12 : INFO] - Processing task with ID : 136, and type 'smush' 
+[2023-03-04 04:07:12 : INFO] - Re_Smush_It_Task with attachment ID : 248, autocreated on : March 04, 2023 04:04:40 
+[2023-03-04 04:07:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:07:12 : INFO] - 75 
+[2023-03-04 04:07:14 : INFO] - Backing up the original image - 2023/03/327089222_711856663715201_4784432561751712701_n-updraft-pre-smush-original.jpg 
+[2023-03-04 04:07:14 : INFO] - Re_Smush_It_Task with attachment ID : 248, autocreated on : March 04, 2023 04:04:40 
+[2023-03-04 04:07:14 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:07:14 : INFO] - 75 
+[2023-03-04 04:07:15 : INFO] - Re_Smush_It_Task with attachment ID : 248, autocreated on : March 04, 2023 04:04:40 
+[2023-03-04 04:07:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:07:15 : INFO] - 75 
+[2023-03-04 04:07:16 : INFO] - Re_Smush_It_Task with attachment ID : 248, autocreated on : March 04, 2023 04:04:40 
+[2023-03-04 04:07:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:07:16 : INFO] - 75 
+[2023-03-04 04:07:17 : INFO] - Re_Smush_It_Task with attachment ID : 248, autocreated on : March 04, 2023 04:04:40 
+[2023-03-04 04:07:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:07:17 : INFO] - 75 
+[2023-03-04 04:07:18 : INFO] - Re_Smush_It_Task with attachment ID : 248, autocreated on : March 04, 2023 04:04:40 
+[2023-03-04 04:07:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:07:18 : INFO] - 75 
+[2023-03-04 04:07:19 : INFO] - Re_Smush_It_Task with attachment ID : 248, autocreated on : March 04, 2023 04:04:40 
+[2023-03-04 04:07:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-04 04:07:19 : INFO] - 75 
+[2023-03-04 04:07:20 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/327089222_711856663715201_4784432561751712701_n.jpg.The file was compressed from 425.91 KB to 101.90 KB saving 76.08 percent using WP-Optimize 
+[2023-03-04 04:07:20 : INFO] - Completed processing task with ID : 136, and type 'smush' 
+[2023-03-04 04:07:20 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-03-04 04:07:20 : INFO] - Successfully processed the queue (smush). 5 tasks were processed out of 5. 
+[2023-03-04 04:07:20 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-03-04 04:07:20 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2023-03-04 04:16:45 : INFO] - 
+ 
+[2023-03-04 04:16:45 : INFO] - Header for logs at time:  Sat, 04 Mar 2023 04:16:45 +0000 on http://localhost/acm_vn 
+[2023-03-04 04:16:45 : INFO] - WP: 6.1.1 
+[2023-03-04 04:16:45 : INFO] - PHP: 8.2.0 (apache2handler, Windows NT DESKTOP-VV4K5S9 10.0 build 19044 (Windows 10) AMD64) 
+[2023-03-04 04:16:45 : INFO] - MySQL: 10.4.27 
+[2023-03-04 04:16:45 : INFO] - WPLANG: vi 
+[2023-03-04 04:16:45 : INFO] - Server: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.2.0 
+[2023-03-04 04:16:45 : INFO] - Outbound connections: N 
+[2023-03-04 04:16:45 : INFO] - safe_mode: 0 
+[2023-03-04 04:16:45 : INFO] - max_execution_time: 120 
+[2023-03-04 04:16:45 : INFO] - memory_limit: 512M (used: 14.1M | 16M) 
+[2023-03-04 04:16:45 : INFO] - multisite: N 
+[2023-03-04 04:16:45 : INFO] - openssl: OpenSSL 3.0.7 1 Nov 2022 
+[2023-03-04 04:16:45 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 

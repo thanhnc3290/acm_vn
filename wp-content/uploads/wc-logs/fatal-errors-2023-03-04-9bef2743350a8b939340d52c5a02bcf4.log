@@ -1,0 +1,153 @@
+2023-03-04T04:15:40+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string - string in D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\functions.php:294
+Stack trace:
+#0 D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\layout_desktop\home\home_product_list.php(108): get_sale_percent('21500000', '')
+#1 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(785): require('D:\\xampp-8.2\\ht...')
+#2 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(718): load_template('D:\\xampp-8.2\\ht...', false, Array)
+#3 D:\xampp-8.2\htdocs\acm_vn\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#4 D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\layout_desktop\index.php(14): get_template_part('layout_desktop/...')
+#5 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(785): require('D:\\xampp-8.2\\ht...')
+#6 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(718): load_template('D:\\xampp-8.2\\ht...', false, Array)
+#7 D:\xampp-8.2\htdocs\acm_vn\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#8 D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\index.php(5): get_template_part('layout_desktop/...')
+#9 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template-loader.php(106): include('D:\\xampp-8.2\\ht...')
+#10 D:\xampp-8.2\htdocs\acm_vn\wp-blog-header.php(19): require_once('D:\\xampp-8.2\\ht...')
+#11 D:\xampp-8.2\htdocs\acm_vn\index.php(17): require('D:\\xampp-8.2\\ht...')
+#12 {main}
+  thrown in D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\functions.php on line 294
+
+2023-03-04T04:15:43+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string - string in D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\functions.php:294
+Stack trace:
+#0 D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\layout_desktop\home\home_product_list.php(108): get_sale_percent('21500000', '')
+#1 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(785): require('D:\\xampp-8.2\\ht...')
+#2 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(718): load_template('D:\\xampp-8.2\\ht...', false, Array)
+#3 D:\xampp-8.2\htdocs\acm_vn\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#4 D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\layout_desktop\index.php(14): get_template_part('layout_desktop/...')
+#5 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(785): require('D:\\xampp-8.2\\ht...')
+#6 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(718): load_template('D:\\xampp-8.2\\ht...', false, Array)
+#7 D:\xampp-8.2\htdocs\acm_vn\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#8 D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\index.php(5): get_template_part('layout_desktop/...')
+#9 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template-loader.php(106): include('D:\\xampp-8.2\\ht...')
+#10 D:\xampp-8.2\htdocs\acm_vn\wp-blog-header.php(19): require_once('D:\\xampp-8.2\\ht...')
+#11 D:\xampp-8.2\htdocs\acm_vn\index.php(17): require('D:\\xampp-8.2\\ht...')
+#12 {main}
+  thrown in D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\functions.php on line 294
+
+2023-03-04T04:16:45+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string - string in D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\functions.php:294
+Stack trace:
+#0 D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\layout_desktop\home\home_product_list.php(108): get_sale_percent('21500000', '')
+#1 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(785): require('D:\\xampp-8.2\\ht...')
+#2 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(718): load_template('D:\\xampp-8.2\\ht...', false, Array)
+#3 D:\xampp-8.2\htdocs\acm_vn\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#4 D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\layout_desktop\index.php(14): get_template_part('layout_desktop/...')
+#5 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(785): require('D:\\xampp-8.2\\ht...')
+#6 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(718): load_template('D:\\xampp-8.2\\ht...', false, Array)
+#7 D:\xampp-8.2\htdocs\acm_vn\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#8 D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\index.php(5): get_template_part('layout_desktop/...')
+#9 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template-loader.php(106): include('D:\\xampp-8.2\\ht...')
+#10 D:\xampp-8.2\htdocs\acm_vn\wp-blog-header.php(19): require_once('D:\\xampp-8.2\\ht...')
+#11 D:\xampp-8.2\htdocs\acm_vn\index.php(17): require('D:\\xampp-8.2\\ht...')
+#12 {main}
+  thrown in D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\functions.php on line 294
+
+2023-03-04T04:17:23+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string - string in D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\functions.php:294
+Stack trace:
+#0 D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\layout_desktop\home\home_product_list.php(108): get_sale_percent('21500000', '')
+#1 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(785): require('D:\\xampp-8.2\\ht...')
+#2 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(718): load_template('D:\\xampp-8.2\\ht...', false, Array)
+#3 D:\xampp-8.2\htdocs\acm_vn\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#4 D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\layout_desktop\index.php(14): get_template_part('layout_desktop/...')
+#5 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(785): require('D:\\xampp-8.2\\ht...')
+#6 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(718): load_template('D:\\xampp-8.2\\ht...', false, Array)
+#7 D:\xampp-8.2\htdocs\acm_vn\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#8 D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\index.php(5): get_template_part('layout_desktop/...')
+#9 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template-loader.php(106): include('D:\\xampp-8.2\\ht...')
+#10 D:\xampp-8.2\htdocs\acm_vn\wp-blog-header.php(19): require_once('D:\\xampp-8.2\\ht...')
+#11 D:\xampp-8.2\htdocs\acm_vn\index.php(17): require('D:\\xampp-8.2\\ht...')
+#12 {main}
+  thrown in D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\functions.php on line 294
+
+2023-03-04T04:19:58+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string - string in D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\functions.php:294
+Stack trace:
+#0 D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\layout_desktop\home\home_product_list.php(108): get_sale_percent('21500000', '')
+#1 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(785): require('D:\\xampp-8.2\\ht...')
+#2 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(718): load_template('D:\\xampp-8.2\\ht...', false, Array)
+#3 D:\xampp-8.2\htdocs\acm_vn\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#4 D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\layout_desktop\index.php(14): get_template_part('layout_desktop/...')
+#5 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(785): require('D:\\xampp-8.2\\ht...')
+#6 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(718): load_template('D:\\xampp-8.2\\ht...', false, Array)
+#7 D:\xampp-8.2\htdocs\acm_vn\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#8 D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\index.php(5): get_template_part('layout_desktop/...')
+#9 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template-loader.php(106): include('D:\\xampp-8.2\\ht...')
+#10 D:\xampp-8.2\htdocs\acm_vn\wp-blog-header.php(19): require_once('D:\\xampp-8.2\\ht...')
+#11 D:\xampp-8.2\htdocs\acm_vn\index.php(17): require('D:\\xampp-8.2\\ht...')
+#12 {main}
+  thrown in D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\functions.php on line 294
+
+2023-03-04T04:20:08+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string - string in D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\functions.php:294
+Stack trace:
+#0 D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\layout_desktop\home\home_product_list.php(108): get_sale_percent('21500000', '')
+#1 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(785): require('D:\\xampp-8.2\\ht...')
+#2 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(718): load_template('D:\\xampp-8.2\\ht...', false, Array)
+#3 D:\xampp-8.2\htdocs\acm_vn\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#4 D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\layout_desktop\index.php(14): get_template_part('layout_desktop/...')
+#5 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(785): require('D:\\xampp-8.2\\ht...')
+#6 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(718): load_template('D:\\xampp-8.2\\ht...', false, Array)
+#7 D:\xampp-8.2\htdocs\acm_vn\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#8 D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\index.php(5): get_template_part('layout_desktop/...')
+#9 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template-loader.php(106): include('D:\\xampp-8.2\\ht...')
+#10 D:\xampp-8.2\htdocs\acm_vn\wp-blog-header.php(19): require_once('D:\\xampp-8.2\\ht...')
+#11 D:\xampp-8.2\htdocs\acm_vn\index.php(17): require('D:\\xampp-8.2\\ht...')
+#12 {main}
+  thrown in D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\functions.php on line 294
+
+2023-03-04T04:20:20+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string - string in D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\functions.php:294
+Stack trace:
+#0 D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\layout_desktop\home\home_product_list.php(108): get_sale_percent('21500000', '')
+#1 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(785): require('D:\\xampp-8.2\\ht...')
+#2 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(718): load_template('D:\\xampp-8.2\\ht...', false, Array)
+#3 D:\xampp-8.2\htdocs\acm_vn\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#4 D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\layout_desktop\index.php(14): get_template_part('layout_desktop/...')
+#5 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(785): require('D:\\xampp-8.2\\ht...')
+#6 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(718): load_template('D:\\xampp-8.2\\ht...', false, Array)
+#7 D:\xampp-8.2\htdocs\acm_vn\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#8 D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\index.php(5): get_template_part('layout_desktop/...')
+#9 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template-loader.php(106): include('D:\\xampp-8.2\\ht...')
+#10 D:\xampp-8.2\htdocs\acm_vn\wp-blog-header.php(19): require_once('D:\\xampp-8.2\\ht...')
+#11 D:\xampp-8.2\htdocs\acm_vn\index.php(17): require('D:\\xampp-8.2\\ht...')
+#12 {main}
+  thrown in D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\functions.php on line 294
+
+2023-03-04T04:21:02+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string - string in D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\functions.php:297
+Stack trace:
+#0 D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\layout_desktop\home\home_product_list.php(108): get_sale_percent('21500000', '')
+#1 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(785): require('D:\\xampp-8.2\\ht...')
+#2 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(718): load_template('D:\\xampp-8.2\\ht...', false, Array)
+#3 D:\xampp-8.2\htdocs\acm_vn\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#4 D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\layout_desktop\index.php(14): get_template_part('layout_desktop/...')
+#5 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(785): require('D:\\xampp-8.2\\ht...')
+#6 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(718): load_template('D:\\xampp-8.2\\ht...', false, Array)
+#7 D:\xampp-8.2\htdocs\acm_vn\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#8 D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\index.php(5): get_template_part('layout_desktop/...')
+#9 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template-loader.php(106): include('D:\\xampp-8.2\\ht...')
+#10 D:\xampp-8.2\htdocs\acm_vn\wp-blog-header.php(19): require_once('D:\\xampp-8.2\\ht...')
+#11 D:\xampp-8.2\htdocs\acm_vn\index.php(17): require('D:\\xampp-8.2\\ht...')
+#12 {main}
+  thrown in D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\functions.php on line 297
+
+2023-03-04T04:22:09+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string - string in D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\functions.php:297
+Stack trace:
+#0 D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\layout_desktop\home\home_product_list.php(108): get_sale_percent('21500000', '')
+#1 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(785): require('D:\\xampp-8.2\\ht...')
+#2 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(718): load_template('D:\\xampp-8.2\\ht...', false, Array)
+#3 D:\xampp-8.2\htdocs\acm_vn\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#4 D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\layout_desktop\index.php(14): get_template_part('layout_desktop/...')
+#5 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(785): require('D:\\xampp-8.2\\ht...')
+#6 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template.php(718): load_template('D:\\xampp-8.2\\ht...', false, Array)
+#7 D:\xampp-8.2\htdocs\acm_vn\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#8 D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\index.php(5): get_template_part('layout_desktop/...')
+#9 D:\xampp-8.2\htdocs\acm_vn\wp-includes\template-loader.php(106): include('D:\\xampp-8.2\\ht...')
+#10 D:\xampp-8.2\htdocs\acm_vn\wp-blog-header.php(19): require_once('D:\\xampp-8.2\\ht...')
+#11 D:\xampp-8.2\htdocs\acm_vn\index.php(17): require('D:\\xampp-8.2\\ht...')
+#12 {main}
+  thrown in D:\xampp-8.2\htdocs\acm_vn\wp-content\themes\thienphuauto\functions.php on line 297
+
